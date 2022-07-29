@@ -63,6 +63,16 @@
 			],
 			"last_seen": {
 				"player_name": "[g0tb0t]Church-of-myg0t",
+				"time": 1658653745
+			},
+			"steamid": "[U:1:103694693]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[g0tb0t]Church-of-myg0t",
 				"time": 1656655767
 			},
 			"steamid": "[U:1:104440240]"
@@ -195,6 +205,16 @@
 				"time": 1657144092
 			},
 			"steamid": "[U:1:356098283]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "solar",
+				"time": 1658662036
+			},
+			"steamid": "[U:1:361705076]"
 		},
 		{
 			"attributes": [
@@ -617,6 +637,15 @@
 				"time": 1657207969
 			},
 			"steamid": "[U:1:1119050066]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1659000558
+			},
+			"steamid": "[U:1:1119051277]"
 		},
 		{
 			"attributes": [
@@ -1382,6 +1411,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1658542809
+			},
+			"steamid": "[U:1:1184693017]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "You will be made useful.",
 				"time": 1656448940
 			},
@@ -1510,6 +1548,16 @@
 			],
 			"last_seen": {
 				"player_name": "[g0tb0t]Church-of-myg0t",
+				"time": 1658655912
+			},
+			"steamid": "[U:1:1197899736]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[g0tb0t]Church-of-myg0t",
 				"time": 1656548125
 			},
 			"steamid": "[U:1:1197899836]"
@@ -1623,6 +1671,16 @@
 				"time": 1657891593
 			},
 			"steamid": "[U:1:1197987624]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)[g0tb0t]Church-of-myg0t",
+				"time": 1658566468
+			},
+			"steamid": "[U:1:1197993682]"
 		},
 		{
 			"attributes": [
@@ -3276,6 +3334,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658652783
+			},
+			"steamid": "[U:1:1296212140]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Ez White",
 				"time": 1657292635
 			},
@@ -3316,6 +3384,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1658653586
+			},
+			"steamid": "[U:1:1296362369]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1658491283
 			},
 			"steamid": "[U:1:1296432258]"
@@ -3329,6 +3406,15 @@
 				"time": 1657292352
 			},
 			"steamid": "[U:1:1296440759]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1658663676
+			},
+			"steamid": "[U:1:1296494062]"
 		},
 		{
 			"attributes": [
@@ -3474,6 +3560,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1658544090
+			},
+			"steamid": "[U:1:1297903859]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Gam3r",
 				"time": 1657727653
 			},
@@ -3524,6 +3619,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658544088
+			},
+			"steamid": "[U:1:1304761615]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Stick",
 				"time": 1657728105
 			},
@@ -3538,6 +3643,15 @@
 				"time": 1658181904
 			},
 			"steamid": "[U:1:1305028775]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1658653588
+			},
+			"steamid": "[U:1:1305054301]"
 		},
 		{
 			"attributes": [
@@ -3568,6 +3682,16 @@
 				"time": 1657995432
 			},
 			"steamid": "[U:1:1305811707]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Not_JackMania",
+				"time": 1658700322
+			},
+			"steamid": "[U:1:1309484796]"
 		},
 		{
 			"attributes": [
@@ -3684,9 +3808,27 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1658566157
+			},
+			"steamid": "[U:1:1312997148]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1656705342
 			},
 			"steamid": "[U:1:1313173170]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1658566154
+			},
+			"steamid": "[U:1:1313247993]"
 		},
 		{
 			"attributes": [
@@ -3753,9 +3895,49 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658653899
+			},
+			"steamid": "[U:1:1313715851]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1658490284
 			},
 			"steamid": "[U:1:1313886083]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658654348
+			},
+			"steamid": "[U:1:1313922088]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658565918
+			},
+			"steamid": "[U:1:1314418668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658543784
+			},
+			"steamid": "[U:1:1314522776]"
 		},
 		{
 			"attributes": [
@@ -3766,6 +3948,64 @@
 				"time": 1657294378
 			},
 			"steamid": "[U:1:1314564264]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658654852
+			},
+			"steamid": "[U:1:1314676201]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)m4gic",
+				"time": 1658663090
+			},
+			"steamid": "[U:1:1314708215]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1658565005
+			},
+			"steamid": "[U:1:1314721933]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)m4gic",
+				"time": 1658663050
+			},
+			"steamid": "[U:1:1314842280]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1658596032
+			},
+			"steamid": "[U:1:1315017052]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1658701096
+			},
+			"steamid": "[U:1:1315089187]"
 		},
 		{
 			"attributes": [
@@ -3786,6 +4026,15 @@
 				"time": 1657724786
 			},
 			"steamid": "[U:1:1317731685]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1658662594
+			},
+			"steamid": "[U:1:1317798616]"
 		},
 		{
 			"attributes": [
