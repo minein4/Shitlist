@@ -11,6 +11,16 @@
 	"players": [
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "melono",
+				"time": 1659967914
+			},
+			"steamid": "[U:1:5161659]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -350,6 +360,16 @@
 				"time": 1656708263
 			},
 			"steamid": "[U:1:869020338]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Spoozufy",
+				"time": 1659910857
+			},
+			"steamid": "[U:1:878979228]"
 		},
 		{
 			"attributes": [
@@ -1707,6 +1727,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "[www.myg0t.win]OGBADGER",
+				"time": 1659966917
+			},
+			"steamid": "[U:1:1198146744]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[g0tb0t]Church-of-myg0t",
 				"time": 1656523368
 			},
@@ -1727,8 +1757,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)[g0tb0t]Church-of-myg0t",
-				"time": 1656513552
+				"player_name": "[www.myg0t.win]OGBADGER",
+				"time": 1659964811
 			},
 			"steamid": "[U:1:1198388987]"
 		},
@@ -3155,6 +3185,15 @@
 				"time": 1656979704
 			},
 			"steamid": "[U:1:1279546778]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1660202253
+			},
+			"steamid": "[U:1:1280219184]"
 		},
 		{
 			"attributes": [
