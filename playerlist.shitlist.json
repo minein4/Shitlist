@@ -54,9 +54,29 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1668863535
+			},
+			"steamid": "[U:1:33385974]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1656512979
 			},
 			"steamid": "[U:1:40823423]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "YOLO'S PERSONAL MEDIC",
+				"time": 1668682646
+			},
+			"steamid": "[U:1:40869780]"
 		},
 		{
 			"attributes": [
@@ -192,6 +212,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668691004
+			},
+			"steamid": "[U:1:103734833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1663102503
 			},
 			"steamid": "[U:1:104019511]"
@@ -245,6 +275,16 @@
 				"time": 1657207219
 			},
 			"steamid": "[U:1:133286865]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Not a Vinesauce bot",
+				"time": 1668677321
+			},
+			"steamid": "[U:1:135526850]"
 		},
 		{
 			"attributes": [
@@ -310,8 +350,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)[g0tb0t]Church-of-myg0t",
-				"time": 1657216066
+				"player_name": "(1)Vinesauce",
+				"time": 1668687720
 			},
 			"steamid": "[U:1:188880662]"
 		},
@@ -393,6 +433,26 @@
 				"time": 1657092572
 			},
 			"steamid": "[U:1:299414116]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Kristoffer Klau\u00df",
+				"time": 1668897108
+			},
+			"steamid": "[U:1:345845356]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668692345
+			},
+			"steamid": "[U:1:348820694]"
 		},
 		{
 			"attributes": [
@@ -932,10 +992,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Hug Healer",
+				"time": 1668707514
+			},
+			"steamid": "[U:1:1042301486]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "fart",
 				"time": 1663266760
 			},
 			"steamid": "[U:1:1042787805]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zerefoex",
+				"time": 1668707741
+			},
+			"steamid": "[U:1:1055224911]"
 		},
 		{
 			"attributes": [
@@ -970,7 +1050,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1668385432
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668723187
 			},
 			"steamid": "[U:1:1070363780]"
 		},
@@ -989,7 +1070,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1668454992
+				"player_name": "(1)Fuck Nemo #RIPV2",
+				"time": 1668869746
 			},
 			"steamid": "[U:1:1070433981]"
 		},
@@ -1008,8 +1090,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Fuck Nemo",
-				"time": 1663103857
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668863412
 			},
 			"steamid": "[U:1:1070543189]"
 		},
@@ -1057,6 +1139,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(1)Fuck Nemo #RIPV2",
+				"time": 1668958384
+			},
+			"steamid": "[U:1:1071592820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Fuck Nemo #RIPV2",
 				"time": 1668172807
 			},
@@ -1071,6 +1163,46 @@
 				"time": 1668454788
 			},
 			"steamid": "[U:1:1071822443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668724977
+			},
+			"steamid": "[U:1:1072461862]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668784681
+			},
+			"steamid": "[U:1:1072524410]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668707098
+			},
+			"steamid": "[U:1:1072680146]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)Fuck Nemo #RIPV2",
+				"time": 1668863392
+			},
+			"steamid": "[U:1:1072759731]"
 		},
 		{
 			"attributes": [
@@ -1136,8 +1268,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Fuck Nemo #RIPV2",
-				"time": 1668469992
+				"player_name": "(1)Fuck Nemo #RIPV2",
+				"time": 1668869850
 			},
 			"steamid": "[U:1:1073057356]"
 		},
@@ -1155,7 +1287,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1668527032
+				"player_name": "(2)Fuck Nemo #RIPV2",
+				"time": 1668958312
 			},
 			"steamid": "[U:1:1077172830]"
 		},
@@ -1164,9 +1297,20 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1668263799
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668869785
 			},
 			"steamid": "[U:1:1077202584]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo #RIPV2",
+				"time": 1668776123
+			},
+			"steamid": "[U:1:1077222738]"
 		},
 		{
 			"attributes": [
@@ -1311,8 +1455,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[unknown]",
-				"time": 1656515489
+				"player_name": "(5)Vinesauce",
+				"time": 1668685646
 			},
 			"steamid": "[U:1:1118962252]"
 		},
@@ -1354,6 +1498,16 @@
 				"time": 1656721000
 			},
 			"steamid": "[U:1:1119102514]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Vinesauce",
+				"time": 1668690763
+			},
+			"steamid": "[U:1:1119124247]"
 		},
 		{
 			"attributes": [
@@ -1450,6 +1604,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668694405
+			},
+			"steamid": "[U:1:1128670862]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(2)[g0tb0t]Church-of-myg0t",
 				"time": 1657216066
 			},
@@ -1510,8 +1674,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1657208587
+				"player_name": "(1)Vinesauce",
+				"time": 1668679540
 			},
 			"steamid": "[U:1:1132715180]"
 		},
@@ -1530,8 +1694,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1656819429
+				"player_name": "Vinesauce",
+				"time": 1668690737
 			},
 			"steamid": "[U:1:1132957421]"
 		},
@@ -2242,8 +2406,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1657217202
+				"player_name": "Vinesauce",
+				"time": 1668689432
 			},
 			"steamid": "[U:1:1197604127]"
 		},
@@ -2256,6 +2420,16 @@
 				"time": 1657891078
 			},
 			"steamid": "[U:1:1197707441]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668690890
+			},
+			"steamid": "[U:1:1197729037]"
 		},
 		{
 			"attributes": [
@@ -2282,6 +2456,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668682240
+			},
+			"steamid": "[U:1:1197794850]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[g0tb0t]Church-of-myg0t",
 				"time": 1656763969
 			},
@@ -2302,8 +2486,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)[g0tb0t]Church-of-myg0t",
-				"time": 1656717970
+				"player_name": "Vinesauce",
+				"time": 1668685646
 			},
 			"steamid": "[U:1:1197815988]"
 		},
@@ -2362,8 +2546,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1657810300
+				"player_name": "(3)Vinesauce",
+				"time": 1668685646
 			},
 			"steamid": "[U:1:1197929520]"
 		},
@@ -2376,6 +2560,16 @@
 				"time": 1656514308
 			},
 			"steamid": "[U:1:1197938833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668687739
+			},
+			"steamid": "[U:1:1197940771]"
 		},
 		{
 			"attributes": [
@@ -2402,8 +2596,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1656768725
+				"player_name": "Vinesauce",
+				"time": 1668686713
 			},
 			"steamid": "[U:1:1197958884]"
 		},
@@ -2422,8 +2616,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1657995167
+				"player_name": "(1)Vinesauce",
+				"time": 1668686713
 			},
 			"steamid": "[U:1:1197982685]"
 		},
@@ -2471,8 +2665,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1657724355
+				"player_name": "Vinesauce",
+				"time": 1668679514
 			},
 			"steamid": "[U:1:1198053705]"
 		},
@@ -2501,8 +2695,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1656523368
+				"player_name": "Vinesauce",
+				"time": 1668686925
 			},
 			"steamid": "[U:1:1198147417]"
 		},
@@ -2511,8 +2705,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1656819322
+				"player_name": "(3)Vinesauce",
+				"time": 1668685343
 			},
 			"steamid": "[U:1:1198150199]"
 		},
@@ -2541,8 +2735,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1656820134
+				"player_name": "Vinesauce",
+				"time": 1668693017
 			},
 			"steamid": "[U:1:1199120918]"
 		},
@@ -2571,8 +2765,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)[g0tb0t]Church-of-myg0t",
-				"time": 1656722195
+				"player_name": "Vinesauce",
+				"time": 1668687823
 			},
 			"steamid": "[U:1:1199617053]"
 		},
@@ -2631,6 +2825,16 @@
 				"time": 1656655075
 			},
 			"steamid": "[U:1:1200045556]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Joker213",
+				"time": 1668776150
+			},
+			"steamid": "[U:1:1201538373]"
 		},
 		{
 			"attributes": [
@@ -3295,6 +3499,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OG Fuck Nemo",
+				"time": 1668725136
+			},
+			"steamid": "[U:1:1231919068]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -3526,6 +3740,16 @@
 				"time": 1663139496
 			},
 			"steamid": "[U:1:1241850412]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1668869870
+			},
+			"steamid": "[U:1:1241987532]"
 		},
 		{
 			"attributes": [
@@ -5893,9 +6117,49 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
-				"time": 1666949259
+				"time": 1668959400
+			},
+			"steamid": "[U:1:1426296487]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668690139
 			},
 			"steamid": "[U:1:1426714740]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668677889
+			},
+			"steamid": "[U:1:1426747069]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(6)Vinesauce",
+				"time": 1668685646
+			},
+			"steamid": "[U:1:1426779181]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(7)Vinesauce",
+				"time": 1668685648
+			},
+			"steamid": "[U:1:1426839941]"
 		},
 		{
 			"attributes": [
@@ -5912,7 +6176,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1668201258
+				"player_name": "Vinesauce",
+				"time": 1668697088
 			},
 			"steamid": "[U:1:1426861174]"
 		},
@@ -5932,9 +6197,39 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
+				"time": 1668677596
+			},
+			"steamid": "[U:1:1426904963]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
 				"time": 1663177443
 			},
 			"steamid": "[U:1:1426963375]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)Vinesauce",
+				"time": 1668677016
+			},
+			"steamid": "[U:1:1427002106]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668695652
+			},
+			"steamid": "[U:1:1427048863]"
 		},
 		{
 			"attributes": [
@@ -5951,10 +6246,80 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668723355
+			},
+			"steamid": "[U:1:1427170103]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668688837
+			},
+			"steamid": "[U:1:1427278194]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668978323
+			},
+			"steamid": "[U:1:1427320191]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668689019
+			},
+			"steamid": "[U:1:1427890300]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "ARMAGEDOM",
 				"time": 1662054060
 			},
 			"steamid": "[U:1:1427900575]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)Vinesauce",
+				"time": 1668690737
+			},
+			"steamid": "[U:1:1427904188]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "take10r2",
+				"time": 1668706767
+			},
+			"steamid": "[U:1:1428038352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Vinesauce",
+				"time": 1668690916
+			},
+			"steamid": "[U:1:1428073688]"
 		},
 		{
 			"attributes": [
@@ -6011,7 +6376,17 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
-				"time": 1668546983
+				"time": 1668697649
+			},
+			"steamid": "[U:1:1430722302]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668679658
 			},
 			"steamid": "[U:1:1431232455]"
 		},
@@ -6040,9 +6415,39 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
+				"time": 1668687720
+			},
+			"steamid": "[U:1:1431353011]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
+				"time": 1668673502
+			},
+			"steamid": "[U:1:1431381326]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vinesauce",
 				"time": 1663179770
 			},
 			"steamid": "[U:1:1431569996]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Vinesauce",
+				"time": 1668677106
+			},
+			"steamid": "[U:1:1431662788]"
 		},
 		{
 			"attributes": [
@@ -6053,6 +6458,16 @@
 				"time": 1663266749
 			},
 			"steamid": "[U:1:1432223136]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[FEMBOT 1] youtube.com/@p2l",
+				"time": 1668772296
+			},
+			"steamid": "[U:1:1433480241]"
 		},
 		{
 			"attributes": [
@@ -6273,3 +6688,4 @@
 		}
 	]
 }
+
