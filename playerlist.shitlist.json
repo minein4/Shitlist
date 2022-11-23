@@ -8,6 +8,8 @@
 		"title": "ShitList",
 		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
 	},
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"players": [
 		{
 			"attributes": [
@@ -44,8 +46,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1669153151
+				"player_name": "(1)DoesHotter",
+				"time": 1669194487
 			},
 			"steamid": "[U:1:24811131]"
 		},
@@ -64,8 +66,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)DoesHotter",
-				"time": 1669018096
+				"player_name": "DoesHotter",
+				"time": 1669211797
 			},
 			"steamid": "[U:1:38515290]"
 		},
@@ -74,8 +76,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1669154591
+				"player_name": "(2)DoesHotter",
+				"time": 1669201570
 			},
 			"steamid": "[U:1:40823423]"
 		},
@@ -184,8 +186,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)DoesHotter",
-				"time": 1669018092
+				"player_name": "DoesHotter",
+				"time": 1669211712
 			},
 			"steamid": "[U:1:93765404]"
 		},
@@ -194,7 +196,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1656523374
+				"player_name": "DoesHotter",
+				"time": 1669205514
 			},
 			"steamid": "[U:1:94578106]"
 		},
@@ -233,8 +236,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1669149260
+				"player_name": "(1)DoesHotter",
+				"time": 1669205218
 			},
 			"steamid": "[U:1:100803189]"
 		},
@@ -273,8 +276,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1669149561
+				"player_name": "(1)DoesHotter",
+				"time": 1669199184
 			},
 			"steamid": "[U:1:104019511]"
 		},
@@ -337,6 +340,16 @@
 				"time": 1668677321
 			},
 			"steamid": "[U:1:135526850]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1669201445
+			},
+			"steamid": "[U:1:146344265]"
 		},
 		{
 			"attributes": [
@@ -422,7 +435,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1656515947
+				"player_name": "DoesHotter",
+				"time": 1669199332
 			},
 			"steamid": "[U:1:196286112]"
 		},
@@ -435,6 +449,16 @@
 				"time": 1663267023
 			},
 			"steamid": "[U:1:200957151]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "\u2642vidak\u2642",
+				"time": 1669203787
+			},
+			"steamid": "[U:1:206851015]"
 		},
 		{
 			"attributes": [
@@ -630,7 +654,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1669154092
+				"time": 1669212337
 			},
 			"steamid": "[U:1:445030492]"
 		},
@@ -688,7 +712,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1656513443
+				"player_name": "(1)DoesHotter",
+				"time": 1669199333
 			},
 			"steamid": "[U:1:490451244]"
 		},
@@ -6773,7 +6798,7 @@
 			],
 			"last_seen": {
 				"player_name": "[FEMBOT 1] youtube.com/@p2l",
-				"time": 1668772296
+				"time": 1669199418
 			},
 			"steamid": "[U:1:1433480241]"
 		},
@@ -6782,9 +6807,40 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1667552314
+				"player_name": "[FEMBOT 5] youtube.com/@p2l",
+				"time": 1669202926
 			},
 			"steamid": "[U:1:1433799992]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[FEMBOT 9] youtube.com/@p2l",
+				"time": 1669202919
+			},
+			"steamid": "[U:1:1440271442]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[FEMBOT 7] youtube.com/@p2l",
+				"time": 1669198810
+			},
+			"steamid": "[U:1:1440340897]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[FEMBOT 10] youtube.com/@p2l",
+				"time": 1669196726
+			},
+			"steamid": "[U:1:1440778211]"
 		},
 		{
 			"attributes": [
@@ -7016,4 +7072,3 @@
 		}
 	]
 }
-
