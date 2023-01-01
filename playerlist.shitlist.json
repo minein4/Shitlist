@@ -8,8 +8,6 @@
 		"title": "ShitList",
 		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
 	},
-{
-	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"players": [
 		{
 			"attributes": [
