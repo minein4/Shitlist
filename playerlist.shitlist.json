@@ -8,7 +8,7 @@
 		"title": "ShitList",
 		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
 	},
-	"players": [
+		"players": [
 		{
 			"attributes": [
 				"racist"
@@ -265,6 +265,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Noah Ben Cohen",
+				"time": 1674071801
+			},
+			"steamid": "[U:1:103013407]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "WHAT",
 				"time": 1668172441
 			},
@@ -295,8 +305,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)DoesHotter",
-				"time": 1669199184
+				"player_name": "DoesHotter",
+				"time": 1674256997
 			},
 			"steamid": "[U:1:104019511]"
 		},
@@ -359,6 +369,16 @@
 				"time": 1669422043
 			},
 			"steamid": "[U:1:129588656]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "maxi2643",
+				"time": 1674176987
+			},
+			"steamid": "[U:1:129930569]"
 		},
 		{
 			"attributes": [
@@ -914,8 +934,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)DoesHotter",
-				"time": 1669199333
+				"player_name": "DoesHotter",
+				"time": 1674258906
 			},
 			"steamid": "[U:1:490451244]"
 		},
@@ -1083,6 +1103,16 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "\ua46dYAYOFLOWEY\ua46d",
+				"time": 1673973010
+			},
+			"steamid": "[U:1:933281528]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1195,8 +1225,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)[g0tb0t]Church-of-myg0t",
-				"time": 1657145199
+				"player_name": "(5)Vinesauce",
+				"time": 1672880590
 			},
 			"steamid": "[U:1:1024329210]"
 		},
@@ -2027,6 +2057,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(6)Vinesauce",
+				"time": 1672880590
+			},
+			"steamid": "[U:1:1119058982]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)[g0tb0t]Church-of-myg0t",
 				"time": 1656448459
 			},
@@ -2047,8 +2087,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Vinesauce",
-				"time": 1669850962
+				"player_name": "(1)Vinesauce",
+				"time": 1672635619
 			},
 			"steamid": "[U:1:1119124247]"
 		},
@@ -2196,8 +2236,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)[g0tb0t]Church-of-myg0t",
-				"time": 1656821159
+				"player_name": "Vinesauce",
+				"time": 1672880590
 			},
 			"steamid": "[U:1:1128738592]"
 		},
@@ -2233,6 +2273,16 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "medic gaming",
+				"time": 1674245993
+			},
+			"steamid": "[U:1:1129058265]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2246,8 +2296,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)Vinesauce",
-				"time": 1669930708
+				"player_name": "Vinesauce",
+				"time": 1672635393
 			},
 			"steamid": "[U:1:1132715180]"
 		},
@@ -3057,8 +3107,18 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1657891078
+				"player_name": "(2)Vinesauce",
+				"time": 1672880590
+			},
+			"steamid": "[U:1:1197640572]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)Vinesauce",
+				"time": 1672880590
 			},
 			"steamid": "[U:1:1197707441]"
 		},
@@ -3197,8 +3257,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[g0tb0t]Church-of-myg0t",
-				"time": 1656548125
+				"player_name": "(2)Vinesauce",
+				"time": 1672635619
 			},
 			"steamid": "[U:1:1197899836]"
 		},
@@ -5181,6 +5241,16 @@
 				"time": 1668989343
 			},
 			"steamid": "[U:1:1264784067]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "IM BLACK IM BLACK IM BLACK",
+				"time": 1674246006
+			},
+			"steamid": "[U:1:1265789031]"
 		},
 		{
 			"attributes": [
@@ -7249,7 +7319,7 @@
 			],
 			"last_seen": {
 				"player_name": "Vinesauce",
-				"time": 1668171284
+				"time": 1672639322
 			},
 			"steamid": "[U:1:1427169672]"
 		},
@@ -7272,6 +7342,16 @@
 				"time": 1668688837
 			},
 			"steamid": "[U:1:1427278194]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)Vinesauce",
+				"time": 1672880590
+			},
+			"steamid": "[U:1:1427287313]"
 		},
 		{
 			"attributes": [
@@ -7457,7 +7537,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"time": 1668471926
+				"player_name": "(1)Vinesauce",
+				"time": 1672880590
 			},
 			"steamid": "[U:1:1431254508]"
 		},
@@ -7869,8 +7950,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Colonel Rhubarb Bikini the 3rd",
-				"time": 1671305918
+				"player_name": "(1)Vinesauce",
+				"time": 1672639322
 			},
 			"steamid": "[U:1:1454321737]"
 		},
@@ -8068,6 +8149,26 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Guardian of the intel room",
+				"time": 1672880122
+			},
+			"steamid": "[U:1:1482806260]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vencer",
+				"time": 1672635788
+			},
+			"steamid": "[U:1:1482872425]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Hubba",
 				"time": 1671806832
 			},
@@ -8075,5 +8176,6 @@
 		}
 	]
 }
+
 
 
