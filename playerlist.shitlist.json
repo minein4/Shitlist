@@ -8,7 +8,7 @@
 		"title": "ShitList",
 		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
 	},
-	"players": [
+		"players": [
 		{
 			"attributes": [
 				"racist"
@@ -397,7 +397,11 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
+<<<<<<< HEAD
 				"time": 1675423145
+=======
+				"time": 1674256997
+>>>>>>> fa59cc0d45d3dd96d64e321e0fb8a1c90e170260
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter"
@@ -1363,8 +1367,13 @@
 				"cheater"
 			],
 			"last_seen": {
+<<<<<<< HEAD
 				"player_name": "(1)DoesHotter",
 				"time": 1675422754
+=======
+				"player_name": "DoesHotter",
+				"time": 1674258906
+>>>>>>> fa59cc0d45d3dd96d64e321e0fb8a1c90e170260
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter",
@@ -8794,3 +8803,9 @@
 		}
 	]
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> fa59cc0d45d3dd96d64e321e0fb8a1c90e170260
