@@ -1,0 +1,113 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Vinesauce",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Vinesauce"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "DoesHotter",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"DoesHotter"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "youtube.com/@p2l",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"youtube.com/@p2l"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Gilmutdinoff Spam Bot",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"https://www.youtube.com/c/Gilmutdinoff"
+					]
+				}
+			}
+		},
+
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Omegatronic MSG",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"I am not a b\u0e4eot.",
+						"No b\u0e4eots. Just humans like you.",
+						"twitter.com/OmegatronicAI",
+						"youtube.com/OMEGATRONIC",
+						"https://shoppy.gg/@OMEGATRONIC"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Fuck Nemo",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Fuck Nemo",
+						"Fuck Nemo #RIPV2"
+					]
+				}
+			}
+		}
+	]
+}
