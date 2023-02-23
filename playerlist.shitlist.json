@@ -8,7 +8,7 @@
 		"title": "ShitList",
 		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
 	},
-		"players": [
+	"players": [
 		{
 			"attributes": [
 				"racist"
@@ -44,6 +44,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "LO\u0e4bVE MA\u0e4bCHI\u0e4aNE",
+				"time": 1676423389
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:20056154]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Waffle-Bot",
 				"time": 1669851013
 			},
@@ -71,8 +85,11 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1670605741
+				"time": 1675683716
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
 			"steamid": "[U:1:33385974]"
 		},
 		{
@@ -101,8 +118,12 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1675376501
+				"time": 1676956061
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter",
+				"[auto] automatically marked: Cheater | reason: \"DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter \""
+			],
 			"steamid": "[U:1:38515290]"
 		},
 		{
@@ -156,8 +177,12 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1675378162
+				"time": 1676980689
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter",
+				"[auto] automatically marked: Cheater | reason: \"Uninstall your hacks breaking news.\""
+			],
 			"steamid": "[U:1:46503295]"
 		},
 		{
@@ -172,6 +197,21 @@
 				"[auto] automatically marked: Cheater | reason: DoesHotter"
 			],
 			"steamid": "[U:1:48698969]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LO\u0e4aVE MA\u0e4aCHI\u0e4bNE",
+				"time": 1676421939
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:49870209]"
 		},
 		{
 			"attributes": [
@@ -221,11 +261,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e4aE\u0e4dGA\u0e34TR\u0e4eON\u0e48I\u0e3aC",
-				"time": 1675461910
+				"player_name": "TYPICA\u0e48L TF\u0e482 PLAYER",
+				"time": 1677145409
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\""
 			],
 			"steamid": "[U:1:77514367]"
 		},
@@ -244,10 +286,90 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1676980183
+			},
+			"steamid": "[U:1:81218369]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "why bother",
 				"time": 1663794048
 			},
 			"steamid": "[U:1:83393507]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LAMPREY ON MY TAINT",
+				"time": 1676757973
+			},
+			"steamid": "[U:1:85742409]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4eME\u0e3aG\u0e4bATR\u0e48ON\u0e4dIC",
+				"time": 1675645847
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:86664053]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4aE\u0e4dGA\u0e34TR\u0e4eON\u0e4bI\u0e3aC",
+				"time": 1676142861
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:87179381]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "infestor",
+				"time": 1676423360
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\""
+			],
+			"steamid": "[U:1:87794274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4eE\u0e48GA\u0e3aTR\u0e4aON\u0e34I\u0e4aC",
+				"time": 1675645643
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:88176912]"
 		},
 		{
 			"attributes": [
@@ -269,11 +391,13 @@
 			],
 			"last_seen": {
 				"player_name": "61",
-				"time": 1675460424
+				"time": 1675683776
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
 			],
 			"steamid": "[U:1:89842676]"
 		},
@@ -282,9 +406,28 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)DoesHotter",
-				"time": 1670605755
+				"player_name": "TYPI\u0e48CAL T\u0e48F2 PL\u0e48AYER",
+				"time": 1677145112
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
+			],
+			"steamid": "[U:1:92464898]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1676944106
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter",
+				"[auto] automatically marked: Cheater | reason: \"y dont u take a short strole to the fagot store and buy some skills scrub\""
+			],
 			"steamid": "[U:1:93765404]"
 		},
 		{
@@ -293,9 +436,26 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1669205514
+				"time": 1676568736
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
 			"steamid": "[U:1:94578106]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TY\u0e48PIC\u0e48AL TF2 PLA\u0e48YER",
+				"time": 1677107914
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:95783819]"
 		},
 		{
 			"attributes": [
@@ -323,7 +483,7 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e4eME\u0e34G\u0e4dATR\u0e3aON\u0e4aIC",
-				"time": 1675430723
+				"time": 1676142931
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
@@ -340,6 +500,21 @@
 				"time": 1663714386
 			},
 			"steamid": "[U:1:98626863]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LO\u0e4bVE MA\u0e4aCHI\u0e4aNE",
+				"time": 1676422196
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:100685324]"
 		},
 		{
 			"attributes": [
@@ -376,6 +551,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "O\u0e4dME\u0e3aG\u0e4eATR\u0e34ON\u0e48IC",
+				"time": 1675583454
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:103622125]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[g0tb0t]Church-of-myg0t",
 				"time": 1658653745
 			},
@@ -395,6 +584,10 @@
 			"attributes": [
 				"cheater"
 			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1676564741
+			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter"
 			],
@@ -415,8 +608,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "O\u0e4cME\u0e48G\u0e3aATR\u0e4eON\u0e4dIC",
-				"time": 1675420385
+				"player_name": "TY\u0e48PICAL TF2 PLAYE\u0e48R",
+				"time": 1677106386
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
@@ -430,8 +623,13 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e4bME\u0e48G\u0e4dATR\u0e4eON\u0e3aIC",
-				"time": 1675418583
+				"time": 1676143026
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
 			"steamid": "[U:1:117308581]"
 		},
 		{
@@ -439,13 +637,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e48E\u0e3aGA\u0e4aTR\u0e4dON\u0e4eI\u0e34C",
-				"time": 1675420393
+				"player_name": "LO\u0e4aVE MA\u0e4aCHI\u0e4aNE",
+				"time": 1676421972
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\""
 			],
 			"steamid": "[U:1:120480258]"
 		},
@@ -454,8 +653,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "O\u0e3aME\u0e48G\u0e34ATR\u0e4eON\u0e4dIC",
-				"time": 1675430695
+				"player_name": "TYPICAL TF\u0e482 PLAYER",
+				"time": 1677107909
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
@@ -479,13 +678,28 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e4aME\u0e48G\u0e4eATR\u0e3aON\u0e4dIC",
-				"time": 1675430723
+				"time": 1675681617
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:121684497]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4eE\u0e34GA\u0e4dTR\u0e4bON\u0e3aI\u0e48C",
+				"time": 1676143028
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:121777829]"
 		},
 		{
 			"attributes": [
@@ -553,12 +767,30 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e48ME\u0e4dG\u0e3aATR\u0e4eON\u0e4aIC",
-				"time": 1675430726
+				"time": 1676142993
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:134973925]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPI\u0e48CAL TF\u0e482 PLAYE\u0e48R",
+				"time": 1677145263
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:135234258]"
 		},
 		{
 			"attributes": [
@@ -577,8 +809,11 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1671385400
+				"time": 1676949414
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
 			"steamid": "[U:1:146344265]"
 		},
 		{
@@ -598,12 +833,14 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1675422705
+				"time": 1676900029
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter",
 				"[auto] automatically marked: Cheater | reason: \"Super bad.\"",
-				"[auto] automatically marked: Cheater | reason: \"HAH.\""
+				"[auto] automatically marked: Cheater | reason: \"HAH.\"",
+				"[auto] automatically marked: Cheater | reason: \"DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesH\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@DoesHotterino\""
 			],
 			"steamid": "[U:1:148041208]"
 		},
@@ -612,13 +849,29 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e3aE\u0e4aGA\u0e34TR\u0e48ON\u0e4eI\u0e4dC",
-				"time": 1675461529
+				"player_name": "LO\u0e4aVE MA\u0e4bCHI\u0e4bNE",
+				"time": 1676422196
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:151875232]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICA\u0e48L T\u0e48F2 PLAYER",
+				"time": 1677107008
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
 				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
 			],
 			"steamid": "[U:1:154942190]"
 		},
@@ -638,13 +891,23 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e49ME\u0e48G\u0e3aATR\u0e4dON\u0e4eIC",
-				"time": 1675420393
+				"time": 1676143018
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:156933301]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1677111896
+			},
+			"steamid": "[U:1:157090698]"
 		},
 		{
 			"attributes": [
@@ -681,11 +944,12 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e3aME\u0e4eG\u0e4dATR\u0e4aON\u0e48IC",
-				"time": 1675430723
+				"time": 1676142944
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\""
 			],
 			"steamid": "[U:1:164964043]"
 		},
@@ -709,7 +973,7 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e3aME\u0e48G\u0e4eATR\u0e4dON\u0e34IC",
-				"time": 1675420396
+				"time": 1675682929
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
@@ -717,6 +981,20 @@
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:167931323]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LO\u0e49VE MA\u0e49CHI\u0e49NE",
+				"time": 1676422007
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:170788442]"
 		},
 		{
 			"attributes": [
@@ -763,10 +1041,35 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1676758891
+			},
+			"steamid": "[U:1:188547296]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)Vinesauce",
 				"time": 1668687720
 			},
 			"steamid": "[U:1:188880662]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4dME\u0e3aG\u0e4aATR\u0e48ON\u0e4eIC",
+				"time": 1675645789
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:189937730]"
 		},
 		{
 			"attributes": [
@@ -846,8 +1149,32 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e49E\u0e3aGA\u0e48TR\u0e4dON\u0e4aI\u0e34C",
-				"time": 1675420395
+				"player_name": "Eric",
+				"time": 1677106409
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:209544467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1676740699
+			},
+			"steamid": "[U:1:219929869]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TY\u0e48PI\u0e48CAL TF2 PL\u0e48AYER",
+				"time": 1677144992
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
@@ -855,6 +1182,19 @@
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:233097454]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "BenJamBAM",
+				"time": 1675475916
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"shut the fuck up frank u fucking faggot fuckingretarded nigger\""
+			],
+			"steamid": "[U:1:239429478]"
 		},
 		{
 			"attributes": [
@@ -882,7 +1222,7 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e4dME\u0e49G\u0e48ATR\u0e3aON\u0e4dIC",
-				"time": 1675420393
+				"time": 1676143031
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
@@ -890,6 +1230,16 @@
 				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:257035047]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "breaking news",
+				"time": 1676980580
+			},
+			"steamid": "[U:1:257919412]"
 		},
 		{
 			"attributes": [
@@ -917,12 +1267,14 @@
 			],
 			"last_seen": {
 				"player_name": "OM\u0e4aE\u0e4eGA\u0e4bTR\u0e3aON\u0e48I\u0e4dC",
-				"time": 1675420393
+				"time": 1676142861
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
-				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:273719988]"
 		},
@@ -932,8 +1284,13 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e48ME\u0e4cG\u0e4dATR\u0e3aON\u0e4eIC",
-				"time": 1675418586
+				"time": 1675894700
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
 			"steamid": "[U:1:289271676]"
 		},
 		{
@@ -961,6 +1318,35 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "LO\u0e4bVE MA\u0e4aCHI\u0e4bNE",
+				"time": 1676422830
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:302855247]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LO\u0e49VE MA\u0e49CHI\u0e4dNE",
+				"time": 1676423363
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:313091194]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Doctor Sex",
 				"time": 1669338456
 			},
@@ -972,11 +1358,14 @@
 			],
 			"last_seen": {
 				"player_name": "O\u0e34ME\u0e3aG\u0e48ATR\u0e4aON\u0e4eIC",
-				"time": 1675430723
+				"time": 1675893889
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
 			],
 			"steamid": "[U:1:338827396]"
 		},
@@ -1009,6 +1398,21 @@
 				"time": 1671387866
 			},
 			"steamid": "[U:1:349395465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4aE\u0e34GA\u0e49TR\u0e3aON\u0e48I\u0e4dC",
+				"time": 1676142861
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:350834547]"
 		},
 		{
 			"attributes": [
@@ -1144,6 +1548,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "d3m0man",
+				"time": 1675636815
+			},
+			"steamid": "[U:1:380509085]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)DoesHotter",
 				"time": 1675422806
 			},
@@ -1164,13 +1578,28 @@
 		},
 		{
 			"attributes": [
+				"cheater",
 				"racist"
 			],
 			"last_seen": {
 				"player_name": "INGSOC",
-				"time": 1670687796
+				"time": 1676740692
 			},
 			"steamid": "[U:1:394083426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4eME\u0e4aG\u0e48ATR\u0e4dON\u0e3aIC",
+				"time": 1675645858
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:397795046]"
 		},
 		{
 			"attributes": [
@@ -1236,6 +1665,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1676740705
+			},
+			"steamid": "[U:1:430363671]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "2003devin",
 				"time": 1657291675
 			},
@@ -1246,12 +1684,28 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e4dE\u0e4eGA\u0e4aTR\u0e49ON\u0e3aI\u0e48C",
-				"time": 1675461235
+				"player_name": "O\u0e4aME\u0e4eG\u0e48ATR\u0e4cON\u0e48IC",
+				"time": 1676143031
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:435720643]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4dE\u0e4eGA\u0e4aTR\u0e49ON\u0e3aI\u0e48C",
+				"time": 1676142861
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:436691785]"
 		},
@@ -1274,6 +1728,20 @@
 				"time": 1675460804
 			},
 			"steamid": "[U:1:440472949]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4dE\u0e4eGA\u0e4aTR\u0e34ON\u0e34I\u0e4bC",
+				"time": 1676142923
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:441902518]"
 		},
 		{
 			"attributes": [
@@ -1335,6 +1803,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "WANAZ",
+				"time": 1675893442
+			},
+			"steamid": "[U:1:474986946]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DoesHotter",
 				"time": 1669153848
 			},
@@ -1345,12 +1823,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "O\u0e3aME\u0e48G\u0e4aATR\u0e4dON\u0e4cIC",
-				"time": 1675462540
+				"player_name": "LO\u0e4eVE MA\u0e4eCHI\u0e48NE",
+				"time": 1676421750
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:480096254]"
 		},
@@ -1377,7 +1858,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1675421920
+				"time": 1676568328
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter"
@@ -1445,6 +1926,21 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "O\u0e48ME\u0e4bG\u0e4aATR\u0e3aON\u0e4eIC",
+				"time": 1675645820
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
+			],
+			"steamid": "[U:1:857161271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Doctor Sex",
 				"time": 1669339011
 			},
@@ -1466,12 +1962,23 @@
 			],
 			"last_seen": {
 				"player_name": "OM\u0e4eE\u0e49GA\u0e3aTR\u0e48ON\u0e4dI\u0e4aC",
-				"time": 1675462646
+				"time": 1675645845
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:870137052]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mongolian throat singer",
+				"time": 1675636831
+			},
+			"steamid": "[U:1:873310510]"
 		},
 		{
 			"attributes": [
@@ -1826,6 +2333,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Not DoesHotter #saveTF2",
+				"time": 1676897246
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1036441585]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -1876,11 +2396,11 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Hug Healer",
-				"time": 1668707514
+				"time": 1675474530
 			},
 			"steamid": "[U:1:1042301486]"
 		},
@@ -1928,8 +2448,17 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1677111893
+			},
+			"steamid": "[U:1:1056751083]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1675427738
+				"time": 1677019082
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter"
@@ -1973,6 +2502,16 @@
 				"time": 1668987549
 			},
 			"steamid": "[U:1:1070406545]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Count S1ngle",
+				"time": 1676740901
+			},
+			"steamid": "[U:1:1070409019]"
 		},
 		{
 			"attributes": [
@@ -2376,10 +2915,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u0417\u0410\u0422\u041a\u041d\u0418 \u041f\u0418\u041b\u041e\u0420\u0415\u0417\u041a\u0423",
+				"time": 1676742295
+			},
+			"steamid": "[U:1:1084584943]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "fuzza",
 				"time": 1663266743
 			},
 			"steamid": "[U:1:1087548218]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Balcony",
+				"time": 1675893428
+			},
+			"steamid": "[U:1:1087981846]"
 		},
 		{
 			"attributes": [
@@ -2400,6 +2959,26 @@
 				"time": 1656516039
 			},
 			"steamid": "[U:1:1092190412]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Spook",
+				"time": 1676757966
+			},
+			"steamid": "[U:1:1094682016]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "580",
+				"time": 1676757971
+			},
+			"steamid": "[U:1:1095741268]"
 		},
 		{
 			"attributes": [
@@ -2652,6 +3231,20 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "lary",
+				"time": 1675894575
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"RAPE AND KILL ALL NIGGERS\"",
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:1125716091]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2783,6 +3376,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1676740694
+			},
+			"steamid": "[U:1:1129373172]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[g0tb0t]Church-of-myg0t",
 				"time": 1657812318
 			},
@@ -2837,6 +3439,16 @@
 				"time": 1671308398
 			},
 			"steamid": "[U:1:1138368539]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "keptaduonacalsberg",
+				"time": 1675995634
+			},
+			"steamid": "[U:1:1140635261]"
 		},
 		{
 			"attributes": [
@@ -3360,6 +3972,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u0417\u041e\u0412\u0418 \u041c\u0415\u041d\u042f \u041a\u0420\u0423\u0422\u041e\u0419",
+				"time": 1676742289
+			},
+			"steamid": "[U:1:1171191303]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "i fucking love among us",
 				"time": 1656768001
 			},
@@ -3374,6 +3996,15 @@
 				"time": 1669412718
 			},
 			"steamid": "[U:1:1172939407]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1676758894
+			},
+			"steamid": "[U:1:1176837250]"
 		},
 		{
 			"attributes": [
@@ -3420,8 +4051,22 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "O\u0e3aME\u0e4eG\u0e48ATR\u0e4dON\u0e4bIC",
+				"time": 1676142978
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:1181255741]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "OM\u0e4eE\u0e4bGA\u0e3aTR\u0e48ON\u0e4dI\u0e4aC",
-				"time": 1675420393
+				"time": 1676143084
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
@@ -3436,13 +4081,44 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "OM\u0e4bE\u0e3aGA\u0e48TR\u0e4dON\u0e4aI\u0e4eC",
-				"time": 1675427984
+				"player_name": "O\u0e4aME\u0e4aG\u0e3aATR\u0e4bON\u0e48IC",
+				"time": 1676142861
 			},
 			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
+			"steamid": "[U:1:1181407158]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPIC\u0e48AL TF2 P\u0e48LAY\u0e48ER",
+				"time": 1677106421
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
+			],
 			"steamid": "[U:1:1181461503]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TYPICAL TF2 PLAYER",
+				"time": 1675645850
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:1181648461]"
 		},
 		{
 			"attributes": [
@@ -4147,6 +4823,16 @@
 				"time": 1668776150
 			},
 			"steamid": "[U:1:1201538373]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Loki",
+				"time": 1675987439
+			},
+			"steamid": "[U:1:1201589642]"
 		},
 		{
 			"attributes": [
@@ -5783,6 +6469,26 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Golden Freddy (Skyle)",
+				"time": 1676569405
+			},
+			"steamid": "[U:1:1260581294]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0416\u0418\u0420\u041d\u042b\u0419 \u041b\u042e\u0414\u041e\u0415\u0414",
+				"time": 1676742297
+			},
+			"steamid": "[U:1:1261731212]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -5817,9 +6523,18 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "IM BLACK IM BLACK IM BLACK",
-				"time": 1674246006
+				"player_name": "Gordon Ramsey",
+				"time": 1677086565
 			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"so many niggers here\"",
+				"[auto] automatically marked: Racist | reason: \"SO MANY NIGGERS\"",
+				"[auto] automatically marked: Racist | reason: \"AND I HATE NIGGERS\"",
+				"[auto] automatically marked: Racist | reason: \"I HATE NIGGERS\"",
+				"[auto] automatically marked: Racist | reason: \"U STUPID NIGGERS\"",
+				"[auto] automatically marked: Racist | reason: \"FRYING NIGGERS IN HOT OIL\"",
+				"[auto] automatically marked: Racist | reason: \"BURNING NIGGERS INTO A CRISP\""
+			],
 			"steamid": "[U:1:1265789031]"
 		},
 		{
@@ -5912,9 +6627,29 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "wukete34",
+				"time": 1675976545
+			},
+			"steamid": "[U:1:1272566318]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1657521705
 			},
 			"steamid": "[U:1:1272690528]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "swag messiah",
+				"time": 1675893436
+			},
+			"steamid": "[U:1:1275289378]"
 		},
 		{
 			"attributes": [
@@ -6477,6 +7212,20 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "peter",
+				"time": 1677024967
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"EZ NIGGER\"",
+				"[auto] automatically marked: Racist | reason: \"NIGGER\""
+			],
+			"steamid": "[U:1:1300404139]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -6855,6 +7604,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Medic Bot",
+				"time": 1675893422
+			},
+			"steamid": "[U:1:1314698454]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(2)m4gic",
 				"time": 1658663090
 			},
@@ -6976,6 +7735,19 @@
 				"time": 1657294436
 			},
 			"steamid": "[U:1:1335550457]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "MARK_BEAST_MODE",
+				"time": 1676480521
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"fuck nigger\""
+			],
+			"steamid": "[U:1:1336769187]"
 		},
 		{
 			"attributes": [
@@ -7124,6 +7896,16 @@
 				"time": 1657393965
 			},
 			"steamid": "[U:1:1390435360]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Spamton Gineer. Spamton",
+				"time": 1676757969
+			},
+			"steamid": "[U:1:1391420415]"
 		},
 		{
 			"attributes": [
@@ -8101,6 +8883,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u15f0\u1587\u1455\u157c\u144c\u1587K\u15e91",
+				"time": 1677145926
+			},
+			"steamid": "[U:1:1429471367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Vinesauce",
 				"time": 1663103856
 			},
@@ -8275,6 +9067,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "J20D",
+				"time": 1675996223
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"i hate niggers.\""
+			],
+			"steamid": "[U:1:1441431236]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -8301,6 +9106,16 @@
 				"time": 1669833877
 			},
 			"steamid": "[U:1:1445191497]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gorbing Time",
+				"time": 1675893749
+			},
+			"steamid": "[U:1:1446364594]"
 		},
 		{
 			"attributes": [
@@ -8763,6 +9578,29 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "youtube.com/@p2l",
+				"time": 1676143564
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1482388069]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Freddy",
+				"time": 1676569408
+			},
+			"steamid": "[U:1:1482685612]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Guardian of the intel room",
 				"time": 1672880122
 			},
@@ -8787,6 +9625,121 @@
 				"time": 1671806832
 			},
 			"steamid": "[U:1:1486898214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Friendly DELTATRONIC",
+				"time": 1676569411
+			},
+			"steamid": "[U:1:1506491726]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tubaqu36",
+				"time": 1675579183
+			},
+			"steamid": "[U:1:1506590674]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\"Real name\"",
+				"time": 1675893667
+			},
+			"steamid": "[U:1:1514736953]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":c",
+				"time": 1676740813
+			},
+			"steamid": "[U:1:1515274003]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)youtube.com/@p2l",
+				"time": 1676543959
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1515867728]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1677105655
+			},
+			"steamid": "[U:1:1516074028]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "smurf kiggeres",
+				"time": 1675683211
+			},
+			"steamid": "[U:1:1516143692]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@p2l",
+				"time": 1676559767
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1516310694]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/shorts/x5-FhRMXRNs",
+				"time": 1677105709
+			},
+			"steamid": "[U:1:1517781742]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/xJC2p4ux7H",
+				"time": 1676583276
+			},
+			"steamid": "[U:1:1519479922]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Phild Corn",
+				"time": 1677113931
+			},
+			"steamid": "[U:1:1520005433]"
 		}
 	]
 }
