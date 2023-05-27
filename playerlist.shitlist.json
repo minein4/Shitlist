@@ -84,6 +84,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "tarru_games",
+				"time": 1684518329
+			},
+			"steamid": "[U:1:31147142]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DoesHotter",
 				"time": 1679955942
 			},
@@ -168,10 +178,12 @@
 			],
 			"last_seen": {
 				"player_name": "Savior",
-				"time": 1681056015
+				"time": 1681149649
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\""
 			],
 			"steamid": "[U:1:33466554]"
 		},
@@ -204,10 +216,11 @@
 			],
 			"last_seen": {
 				"player_name": "Most",
-				"time": 1681068177
+				"time": 1681149737
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
 			],
 			"steamid": "[U:1:37765333]"
 		},
@@ -361,6 +374,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "76561198015329761",
+				"time": 1681733353
+			},
+			"steamid": "[U:1:55064033]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "killing",
 				"time": 1681040551
 			},
@@ -393,6 +416,26 @@
 				"time": 1656655294
 			},
 			"steamid": "[U:1:56850276]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lier",
+				"time": 1681686977
+			},
+			"steamid": "[U:1:59842396]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "station",
+				"time": 1681832780
+			},
+			"steamid": "[U:1:59943693]"
 		},
 		{
 			"attributes": [
@@ -470,10 +513,35 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "ElementOfIsaac",
+				"time": 1684365859
+			},
+			"steamid": "[U:1:83228118]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "why bother",
 				"time": 1663794048
 			},
 			"steamid": "[U:1:83393507]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Crab",
+				"time": 1681511851
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\""
+			],
+			"steamid": "[U:1:84051363]"
 		},
 		{
 			"attributes": [
@@ -604,6 +672,19 @@
 				"[auto] automatically marked: Cheater | reason: \"No b\u0e4eots. Just humans like you.\""
 			],
 			"steamid": "[U:1:92464898]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "zombie",
+				"time": 1681154840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:92679342]"
 		},
 		{
 			"attributes": [
@@ -911,6 +992,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1684451529
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:112839463]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -927,6 +1021,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "buck",
+				"time": 1681682039
+			},
+			"steamid": "[U:1:114842461]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "O\u0e4bME\u0e48G\u0e4dATR\u0e4eON\u0e3aIC",
 				"time": 1676143026
 			},
@@ -936,6 +1040,16 @@
 				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:117308581]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "SeleneActias",
+				"time": 1684621199
+			},
+			"steamid": "[U:1:120090146]"
 		},
 		{
 			"attributes": [
@@ -1071,6 +1185,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1682630205
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:132937721]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "freeze",
 				"time": 1657207219
 			},
@@ -1116,6 +1243,26 @@
 				"time": 1668677321
 			},
 			"steamid": "[U:1:135526850]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bob",
+				"time": 1684182809
+			},
+			"steamid": "[U:1:143761067]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Walker",
+				"time": 1681681545
+			},
+			"steamid": "[U:1:146296150]"
 		},
 		{
 			"attributes": [
@@ -1224,6 +1371,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "penis scout",
+				"time": 1682548150
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER NIGGER N\""
+			],
+			"steamid": "[U:1:153943280]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1278,6 +1438,31 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "bort",
+				"time": 1681510875
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\""
+			],
+			"steamid": "[U:1:157160269]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "i smoke dick",
+				"time": 1681830031
+			},
+			"steamid": "[U:1:159313095]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "spez",
 				"time": 1669851845
 			},
@@ -1316,6 +1501,20 @@
 				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot. You are a total loser.\""
 			],
 			"steamid": "[U:1:164964043]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Master",
+				"time": 1681508565
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
+			],
+			"steamid": "[U:1:165903184]"
 		},
 		{
 			"attributes": [
@@ -1379,6 +1578,16 @@
 				"time": 1656820627
 			},
 			"steamid": "[U:1:176522703]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198137175279",
+				"time": 1681718563
+			},
+			"steamid": "[U:1:176909551]"
 		},
 		{
 			"attributes": [
@@ -1492,6 +1701,20 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rely",
+				"time": 1681150110
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:197983959]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -1519,6 +1742,19 @@
 				"time": 1663267023
 			},
 			"steamid": "[U:1:200957151]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "depresseduglykid",
+				"time": 1684013877
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"fury nigger?\""
+			],
+			"steamid": "[U:1:206842503]"
 		},
 		{
 			"attributes": [
@@ -1554,6 +1790,16 @@
 				"[auto] automatically marked: Cheater | reason: \"I am not a b\u0e4eot.\""
 			],
 			"steamid": "[U:1:209544467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "KingL_",
+				"time": 1684621368
+			},
+			"steamid": "[U:1:211408823]"
 		},
 		{
 			"attributes": [
@@ -1711,6 +1957,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "charging",
+				"time": 1681150614
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:293733016]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Moon",
 				"time": 1681055588
 			},
@@ -1739,6 +1998,20 @@
 				"time": 1657092572
 			},
 			"steamid": "[U:1:299414116]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "world",
+				"time": 1681447610
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:302236573]"
 		},
 		{
 			"attributes": [
@@ -1805,6 +2078,19 @@
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:313784925]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Castle",
+				"time": 1681447603
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:326317251]"
 		},
 		{
 			"attributes": [
@@ -1881,6 +2167,16 @@
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:342847580]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Extra",
+				"time": 1681832162
+			},
+			"steamid": "[U:1:343987690]"
 		},
 		{
 			"attributes": [
@@ -2076,11 +2372,23 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Now",
+				"time": 1681686590
+			},
+			"steamid": "[U:1:375037976]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "my",
-				"time": 1681041161
+				"time": 1681447601
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
 			],
 			"steamid": "[U:1:377074186]"
 		},
@@ -2202,6 +2510,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "hoshsikyros",
+				"time": 1684451476
+			},
+			"steamid": "[U:1:404611594]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[VALV\u0e38\u1d31] SloppySausage",
 				"time": 1675011067
 			},
@@ -2304,6 +2622,21 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Hyper",
+				"time": 1681447610
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\""
+			],
+			"steamid": "[U:1:435063773]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "O\u0e4aME\u0e4eG\u0e48ATR\u0e4cON\u0e48IC",
 				"time": 1676143031
 			},
@@ -2345,7 +2678,7 @@
 			],
 			"last_seen": {
 				"player_name": "toy",
-				"time": 1681068191
+				"time": 1681149362
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\""
@@ -2460,6 +2793,21 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Constant",
+				"time": 1681510679
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:472600186]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "WANAZ",
 				"time": 1675893442
 			},
@@ -2516,14 +2864,26 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1677767763
+				"time": 1681740350
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter",
 				"[auto] automatically marked: Cheater | reason: \"i hope u got birth control coz u got rapped\"",
 				"[auto] automatically marked: Cheater | reason: \"'i got fukd so hard dat im cummin shit n shittn cum'- u\"",
 				"[auto] automatically marked: Cheater | reason: \"ur gonna need tampons for ur ass afta that ownage\"",
-				"[auto] automatically marked: Cheater | reason: \"{{ scoooled u }}\""
+				"[auto] automatically marked: Cheater | reason: \"{{ scoooled u }}\"",
+				"[auto] automatically marked: Cheater | reason: \"\u0f3c \u3064  \u0361\u00b0 \u035c\u0296 \u0361\u00b0 \u0f3d\u3064\"",
+				"[auto] automatically marked: Cheater | reason: \"( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\"",
+				"[auto] automatically marked: Cheater | reason: \"( \u0361\u00b0( \u0361\u00b0 \u035c\u0296( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u0296 \u0361\u00b0) \u0361\u00b0)\"",
+				"[auto] automatically marked: Cheater | reason: \"\u0295\u2022\u1d25\u2022\u0294\"",
+				"[auto] automatically marked: Cheater | reason: \"I would insult Ciwicon, but nature did a better job.\"",
+				"[auto] automatically marked: Cheater | reason: \"nice\"",
+				"[auto] automatically marked: Cheater | reason: \"( \u0361\u00b0 \u035c\u0296 \u0361\u00b0 )\"",
+				"[auto] automatically marked: Cheater | reason: \"(\u0e07'\u0300-'\u0301)\u0e07\"",
+				"[auto] automatically marked: Cheater | reason: \"(\u25d5\u203f\u25d5\u273f)\"",
+				"[auto] automatically marked: Cheater | reason: \"( \u033f\u0139\u032f \u033f \u033f)\"",
+				"[auto] automatically marked: Cheater | reason: \"Some people get paid to suck, you do it for free, Beezlebeck.\"",
+				"[auto] automatically marked: Cheater | reason: \"Woops, i slipped\""
 			],
 			"steamid": "[U:1:481619668]"
 		},
@@ -2654,6 +3014,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Drock645",
+				"time": 1681687757
+			},
+			"steamid": "[U:1:870625152]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Also",
 				"time": 1681040558
 			},
@@ -2731,10 +3101,29 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1684182802
+			},
+			"steamid": "[U:1:883547379]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Yuyuko",
 				"time": 1667604633
 			},
 			"steamid": "[U:1:883646555]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Portugal",
+				"time": 1684182843
+			},
+			"steamid": "[U:1:884829123]"
 		},
 		{
 			"attributes": [
@@ -2758,6 +3147,43 @@
 				"[auto] automatically marked: Cheater | reason: DoesHotter"
 			],
 			"steamid": "[U:1:888798933]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Franz",
+				"time": 1684014582
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"thats kinda gay nigger\"",
+				"[auto] automatically marked: Racist | reason: \"you are a nigger \"",
+				"[auto] automatically marked: Racist | reason: \"you are nigger\"",
+				"[auto] automatically marked: Racist | reason: \"nigger you are\"",
+				"[auto] automatically marked: Racist | reason: \"you nigger are\"",
+				"[auto] automatically marked: Racist | reason: \"btw im not racist agains those slave niggers black\"",
+				"[auto] automatically marked: Racist | reason: \"niggers i hate\"",
+				"[auto] automatically marked: Racist | reason: \"i niggers hate fr couse blak thej ar\"",
+				"[auto] automatically marked: Racist | reason: \"I HATE NIGGERS\"",
+				"[auto] automatically marked: Racist | reason: \"I HATE NIGGERS AND HERE ARE THE REASONS THEY EAT ALL MY CHIKENS ON MY FARM THEY EAT MY WATERMELON THEY LIKE cool aid AND thj bl\"",
+				"[auto] automatically marked: Racist | reason: \"niggerniggerniggerniggerniggerniggernigger\"",
+				"[auto] automatically marked: Racist | reason: \"NIGGERRRRSR\""
+			],
+			"steamid": "[U:1:890415516]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681736088
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:891664587]"
 		},
 		{
 			"attributes": [
@@ -2889,6 +3315,19 @@
 				"time": 1668526271
 			},
 			"steamid": "[U:1:1015503336]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681745900
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1020350662]"
 		},
 		{
 			"attributes": [
@@ -3175,6 +3614,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "vdxtage_",
+				"time": 1684912184
+			},
+			"steamid": "[U:1:1044670668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1671385964
 			},
 			"steamid": "[U:1:1053632415]"
@@ -3245,6 +3694,19 @@
 				"[auto] automatically marked: Cheater | reason: \"Tovarisch = bad.\""
 			],
 			"steamid": "[U:1:1058485533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681684885
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1058811787]"
 		},
 		{
 			"attributes": [
@@ -4090,6 +4552,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Andrew Tate",
+				"time": 1683672102
+			},
+			"steamid": "[U:1:1126444817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"time": 1671385960
 			},
 			"steamid": "[U:1:1127362746]"
@@ -4291,6 +4763,19 @@
 				"time": 1675995634
 			},
 			"steamid": "[U:1:1140635261]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "K1laXen",
+				"time": 1682857764
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:1148138383]"
 		},
 		{
 			"attributes": [
@@ -4814,6 +5299,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Mr_Foster",
+				"time": 1682212289
+			},
+			"steamid": "[U:1:1163968214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\u30ad\u30b9\u30bf\u30af\u30b7\u30fc",
 				"time": 1671317159
 			},
@@ -4903,6 +5398,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681738106
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1181078571]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "O\u0e3aME\u0e4eG\u0e48ATR\u0e4dON\u0e4bIC",
 				"time": 1676142978
 			},
@@ -4941,6 +5449,19 @@
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/OMEGATRONIC\""
 			],
 			"steamid": "[U:1:1181407158]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681747524
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1181409968]"
 		},
 		{
 			"attributes": [
@@ -4997,6 +5518,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681730250
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1183669054]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Vinesauce",
 				"time": 1669853431
 			},
@@ -5011,6 +5545,16 @@
 				"time": 1668988215
 			},
 			"steamid": "[U:1:1183809195]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kdat",
+				"time": 1681830036
+			},
+			"steamid": "[U:1:1183912273]"
 		},
 		{
 			"attributes": [
@@ -6869,6 +7413,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "grigor.arai",
+				"time": 1681912839
+			},
+			"steamid": "[U:1:1244444283]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -6895,6 +7449,29 @@
 				"time": 1668385578
 			},
 			"steamid": "[U:1:1248744392]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hennesy",
+				"time": 1682211884
+			},
+			"steamid": "[U:1:1249380594]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1681718904
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1252984519]"
 		},
 		{
 			"attributes": [
@@ -7467,6 +8044,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Smoke",
+				"time": 1683672041
+			},
+			"steamid": "[U:1:1261957855]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -7655,6 +8242,15 @@
 				"time": 1675893436
 			},
 			"steamid": "[U:1:1275289378]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1681148389
+			},
+			"steamid": "[U:1:1277688341]"
 		},
 		{
 			"attributes": [
@@ -8951,6 +9547,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Hot Granny",
+				"time": 1683672063
+			},
+			"steamid": "[U:1:1389914379]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Tigger",
 				"time": 1657393965
 			},
@@ -9024,6 +9630,16 @@
 				"time": 1658490856
 			},
 			"steamid": "[U:1:1413458832]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bloodhunt enthusiast",
+				"time": 1683672317
+			},
+			"steamid": "[U:1:1419228696]"
 		},
 		{
 			"attributes": [
@@ -10052,6 +10668,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "youtube.com/@p2l [4]",
+				"time": 1684999974
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1433348324]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "[FEMBOT 1] youtube.com/@p2l",
 				"time": 1669546282
 			},
@@ -10062,10 +10691,72 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[FEMBOT 5] youtube.com/@p2l",
-				"time": 1669202926
+				"player_name": "youtube.com/@p2l [5]",
+				"time": 1683672139
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
 			"steamid": "[U:1:1433799992]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@p2l [3]",
+				"time": 1684621394
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1433845548]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "im bored too",
+				"time": 1682784126
+			},
+			"steamid": "[U:1:1436134216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Marulk",
+				"time": 1684912555
+			},
+			"steamid": "[U:1:1438815899]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@p2l [8]",
+				"time": 1683672510
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1439786814]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@p2l [6]",
+				"time": 1683722601
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
+			"steamid": "[U:1:1440156734]"
 		},
 		{
 			"attributes": [
@@ -10082,9 +10773,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[FEMBOT 7] youtube.com/@p2l",
-				"time": 1669198810
+				"player_name": "youtube.com/@p2l [7]",
+				"time": 1684999841
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
+			],
 			"steamid": "[U:1:1440340897]"
 		},
 		{
@@ -10568,6 +11262,25 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "phoenix",
+				"time": 1684611920
+			},
+			"steamid": "[U:1:1462122726]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1681148281
+			},
+			"steamid": "[U:1:1462642959]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "makaka",
 				"time": 1667575861
 			},
@@ -10740,10 +11453,63 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Thug",
+				"time": 1681830027
+			},
+			"steamid": "[U:1:1486335336]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Hubba",
 				"time": 1671806832
 			},
 			"steamid": "[U:1:1486898214]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Manne_quin",
+				"time": 1684014056
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger are u\""
+			],
+			"steamid": "[U:1:1487063223]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "RANK1 LOLTYLER",
+				"time": 1683672073
+			},
+			"steamid": "[U:1:1489287867]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "loltyler1",
+				"time": 1683672320
+			},
+			"steamid": "[U:1:1494012932]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DELT\u0e4eATRONIC",
+				"time": 1683672065
+			},
+			"steamid": "[U:1:1506157348]"
 		},
 		{
 			"attributes": [
@@ -10784,6 +11550,46 @@
 				"time": 1675579183
 			},
 			"steamid": "[U:1:1506590674]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jayg",
+				"time": 1684034958
+			},
+			"steamid": "[U:1:1507799382]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jayg",
+				"time": 1683676673
+			},
+			"steamid": "[U:1:1508071689]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)jayg",
+				"time": 1683676269
+			},
+			"steamid": "[U:1:1508204126]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "k",
+				"time": 1684034315
+			},
+			"steamid": "[U:1:1508219997]"
 		},
 		{
 			"attributes": [
@@ -10892,6 +11698,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "I Love Enginner.",
+				"time": 1685030397
+			},
+			"steamid": "[U:1:1516181688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "youtube.com/@p2l",
 				"time": 1676559767
 			},
@@ -10899,6 +11715,16 @@
 				"[auto] automatically marked: Cheater | reason: youtube.com/@p2l"
 			],
 			"steamid": "[U:1:1516310694]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Canada with amongus",
+				"time": 1685030401
+			},
+			"steamid": "[U:1:1516368454]"
 		},
 		{
 			"attributes": [
@@ -10935,10 +11761,56 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "TROLLSEC BOT | #fucktf2",
-				"time": 1677882905
+				"player_name": "Ratchet",
+				"time": 1681685035
 			},
+			"steamid": "[U:1:1520226833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NastyHulk",
+				"time": 1681685026
+			},
+			"steamid": "[U:1:1521528882]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TrollSEC.BOT | dsc.gg/trollsecb",
+				"time": 1681902021
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Trollsec"
+			],
+			"steamid": "[U:1:1521780644]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TrollSEC.BOT | dsc.gg/trollsecb",
+				"time": 1681716977
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Trollsec"
+			],
 			"steamid": "[U:1:1522247742]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HELL6HOUND66",
+				"time": 1681685030
+			},
+			"steamid": "[U:1:1522867971]"
 		},
 		{
 			"attributes": [
@@ -10955,6 +11827,26 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "SniperLfye",
+				"time": 1681685023
+			},
+			"steamid": "[U:1:1524830377]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SmittenKitten66",
+				"time": 1681685020
+			},
+			"steamid": "[U:1:1525761901]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Mbira",
 				"time": 1680648114
 			},
@@ -10965,10 +11857,202 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "E",
+				"time": 1682633410
+			},
+			"steamid": "[U:1:1528718408]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rosne gaming",
+				"time": 1684619234
+			},
+			"steamid": "[U:1:1529137850]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "E",
+				"time": 1682632735
+			},
+			"steamid": "[U:1:1529143687]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "6 youtu.be/lnjoGxz96-o",
 				"time": 1679957259
 			},
 			"steamid": "[U:1:1529360137]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "E",
+				"time": 1682634041
+			},
+			"steamid": "[U:1:1529615868]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "E",
+				"time": 1682634182
+			},
+			"steamid": "[U:1:1529637088]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1681148289
+			},
+			"steamid": "[U:1:1530349615]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1681148285
+			},
+			"steamid": "[U:1:1530413009]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1681148203
+			},
+			"steamid": "[U:1:1530745789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydney",
+				"time": 1683676435
+			},
+			"steamid": "[U:1:1532199970]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1683672630
+			},
+			"steamid": "[U:1:1532246671]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)pheonix",
+				"time": 1684611906
+			},
+			"steamid": "[U:1:1532325048]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pheonix",
+				"time": 1684611909
+			},
+			"steamid": "[U:1:1532478071]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)pheonix",
+				"time": 1684611917
+			},
+			"steamid": "[U:1:1532500176]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sydney",
+				"time": 1683676338
+			},
+			"steamid": "[U:1:1532759031]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "look at this cat",
+				"time": 1684541330
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"bye niggers\"",
+				"[auto] automatically marked: Racist | reason: \"im requeueing since you niggers kicked my bot\""
+			],
+			"steamid": "[U:1:1533732950]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kkuki ki",
+				"time": 1681830045
+			},
+			"steamid": "[U:1:1534853785]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1683672225
+			},
+			"steamid": "[U:1:1541138956]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jayg",
+				"time": 1683676266
+			},
+			"steamid": "[U:1:1541631064]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xxprotrickstabprogame2015",
+				"time": 1684978840
+			},
+			"steamid": "[U:1:1547614082]"
 		}
 	]
 }
