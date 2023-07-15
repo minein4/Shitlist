@@ -1,5 +1,13 @@
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"minein4"
+		],
+		"description": "Cheaters",
+		"title": "ShitList Rules",
+		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/rules.shitlist.json"
+	},
 	"rules": [
 		{
 			"actions": {
@@ -69,7 +77,6 @@
 				}
 			}
 		},
-
 		{
 			"actions": {
 				"mark": [
@@ -84,9 +91,63 @@
 					"patterns": [
 						"I am not a b\u0e4eot.",
 						"No b\u0e4eots. Just humans like you.",
+						"IMMUNITY shoppy.gg/@OMEGATRONIC",
 						"twitter.com/OmegatronicAI",
 						"youtube.com/OMEGATRONIC",
-						"https://shoppy.gg/@OMEGATRONIC"
+						"https://shoppy.gg/@OMEGATRONIC",
+						"SPIDER-MAN 4 WAS REAL! bit.ly/3lXhvoO"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Omegatronic Clones",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"HEXATRONIC",
+						"DELTA\u0e4eTRONIC "
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Trollsec",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"TrollSEC.BOT | dsc.gg/trollsecb"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "[ETF2L] Slipknot",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"[ETF2L] Slipknot"
 					]
 				}
 			}
@@ -104,7 +165,8 @@
 					"mode": "contains",
 					"patterns": [
 						"Fuck Nemo",
-						"Fuck Nemo #RIPV2"
+						"Fuck Nemo #RIPV2",
+						"F\u0e31UCK OF DORY"
 					]
 				}
 			}
