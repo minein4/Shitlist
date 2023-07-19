@@ -13,7 +13,7 @@ You install this list by clicking the green code button and then download ZIP
 
 
 
-Once downloading the zip please extract it using your zip manager of choice, now click into Shitlist-main and you will see `playerlist.shitlist.json`  please copy this file into your tf2bd cfg file
+Once downloading the zip please extract it using your zip manager of choice, now click into Shitlist-main and you will see `playerlist.shitlist.json` and `rules.shitlist.json` please copy these files into your tf2bd cfg file
 
 
 ![Click downlaod](https://i.imgur.com/ZTc6sS6.png)
