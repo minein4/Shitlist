@@ -106,6 +106,26 @@
 					"cheater"
 				]
 			},
+			"description": "Omegatronic's use of thai",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"\u0E4E",
+						"\u0e34",
+						"\u0e35",
+						"\u0e36"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
 			"description": "Omegatronic Clones",
 			"triggers": {
 				"username_text_match": {
