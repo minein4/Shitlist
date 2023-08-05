@@ -3680,11 +3680,11 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
-				"player_name": "[Nullified]Marli",
-				"time": 1662360870
+				"player_name": "Teriyaki",
+				"time": 1690305710
 			},
 			"steamid": "[U:1:1041458410]"
 		},
@@ -4333,6 +4333,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1691092437
+			},
+			"steamid": "[U:1:1087599737]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Balcony",
 				"time": 1675893428
 			},
@@ -4696,6 +4705,16 @@
 				"time": 1671385960
 			},
 			"steamid": "[U:1:1127362746]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Smoking A pack",
+				"time": 1689726313
+			},
+			"steamid": "[U:1:1127988216]"
 		},
 		{
 			"attributes": [
@@ -8564,6 +8583,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "CATastrophe",
+				"time": 1691092557
+			},
+			"steamid": "[U:1:1282611083]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "sniper bot",
 				"time": 1656450376
 			},
@@ -9845,6 +9874,16 @@
 				"time": 1658490856
 			},
 			"steamid": "[U:1:1413458832]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rapelation",
+				"time": 1690305802
+			},
+			"steamid": "[U:1:1418751454]"
 		},
 		{
 			"attributes": [
@@ -13897,6 +13936,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1689746370
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1564715083]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)HEXATRONIC",
 				"time": 1688942741
 			},
@@ -13910,8 +13962,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)HEXATRONIC",
-				"time": 1688942471
+				"player_name": "(7)HEXATRONIC",
+				"time": 1689745840
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -13936,6 +13988,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1565070312]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(4)HEXATRONIC",
 				"time": 1688942471
 			},
@@ -13943,6 +14008,102 @@
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
 			],
 			"steamid": "[U:1:1565292002]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1565445339]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1565455583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(6)HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1565807603]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(5)HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1565896743]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1565903155]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)HEXATRONIC",
+				"time": 1689745840
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1566314007]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1691091792
+			},
+			"steamid": "[U:1:1572411541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1691091795
+			},
+			"steamid": "[U:1:1572519613]"
 		}
 	]
 }
