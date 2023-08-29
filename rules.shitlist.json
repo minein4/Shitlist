@@ -2,7 +2,8 @@
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
 	"file_info": {
 		"authors": [
-			"minein4"
+			"minein4",
+			"Fox"
 		],
 		"description": "Cheaters",
 		"title": "ShitList Rules",
@@ -89,13 +90,17 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"I am not a b\u0e4eot.",
-						"No b\u0e4eots. Just humans like you.",
-						"IMMUNITY shoppy.gg/@OMEGATRONIC",
+						"\u0e4e",
+						"shoppy.gg/@OMEGATRONIC",
 						"twitter.com/OmegatronicAI",
 						"youtube.com/OMEGATRONIC",
 						"https://shoppy.gg/@OMEGATRONIC",
-						"SPIDER-MAN 4 WAS REAL! bit.ly/3lXhvoO"
+						"SPIDER-MAN 4 WAS REAL! bit.ly/3lXhvoO",
+						"IT'S FINALLY HERE bit.ly/3sm04B4",
+						"๎",
+						"NOW OMEGAPOCALYPSE",
+						"You aren't supposed to have a gun.",
+						"kick this kook"
 					]
 				}
 			}
@@ -106,17 +111,44 @@
 					"cheater"
 				]
 			},
-			"description": "Omegatronic's use of thai",
+			"description": "Omegatronic",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"\u0E4E",
+						"\u0e4e",
 						"\u0e34",
 						"\u0e35",
 						"\u0e36",
-						"\u0e39"
+						"\u0e39",
+						"ิ",
+						"ู",
+						"(not ",
+						" bot)",
+						"OMEGA",
+						"TRONIC",
+						"ΩMEGA",
+						"TRΩNIC",
+						"0MEGA",
+						"TR0NIC",
+						"TROИIC",
+						"twitter.com/OmegatronicA",
+						"youtube.com/OMEGATRONI",
+						"OMEGAPOCALYPSE",
+						"O M E G A T R O N I C",
+						"IROИ",
+						"FISTIИG",
+						"IRON FISTING",
+						"IRΩN",
+						"SAVIИG",
+						"0MEGA",
+						"TR0NIC",
+						"BOT IMMUNITY",
+						"SAVES TF2",
+						" #SavingTF2",
+						" TF2 SAVIOR",
+						" TF2 BEST PLAYER"
 					]
 				}
 			}
@@ -134,7 +166,7 @@
 					"mode": "contains",
 					"patterns": [
 						"HEXATRONIC",
-						"DELTA\u0e4eTRONIC "
+						"DELTA\u0e4eTRONIC"
 					]
 				}
 			}
@@ -188,6 +220,47 @@
 						"Fuck Nemo",
 						"Fuck Nemo #RIPV2",
 						"F\u0e31UCK OF DORY"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Omegatronic Clones MSG",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Were is deltatronic?",
+						"Omegatronic is saving TF2!",
+						"Support Omegatronic!",
+						"twitter.com/HexatronicAI",
+						"youtube.com/@Hexatr0nic",
+						"HELP HIM SAVE TF2",
+						"BUY OMEGATRONICS BOT IMMUNITY",
+						"https://shoppy.gg/@OMEGATRONIC"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "RosneGaming",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"youtube.com/@RosneGaming"
 					]
 				}
 			}
