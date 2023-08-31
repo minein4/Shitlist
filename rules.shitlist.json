@@ -2,12 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
 	"file_info": {
 		"authors": [
-			"minein4",
-			"Fox"
+			"minein4"
 		],
 		"description": "Cheaters",
 		"title": "ShitList Rules",
-		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/rules.shitlist.json"
+		"update_url": "https://github.com/minein4/Shitlist/blob/main/rules.shitlist.json"
 	},
 	"rules": [
 		{
