@@ -6,7 +6,7 @@
 		],
 		"description": "Cheaters",
 		"title": "ShitList Rules",
-		"update_url": "https://github.com/minein4/Shitlist/blob/main/rules.shitlist.json"
+		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/rules.shitlist.json"
 	},
 	"rules": [
 		{
@@ -90,7 +90,6 @@
 					"mode": "contains",
 					"patterns": [
 						"\u0e4e",
-						"\u0e4e",
 						"shoppy.gg/@OMEGATRONIC",
 						"twitter.com/OmegatronicAI",
 						"youtube.com/OMEGATRONIC",
@@ -125,19 +124,21 @@
 						" bot)",
 						"OMEGATR",
 						"MEGATRONIC",
-						"\u03a9MEGATR",
-						"MEGATR\u03a9",
+						"ΩMEGATR",
+						"MEGATRΩNIC",
+						"MEGATROИIC",
 						"0MEGATR",
-						"MEGATR0",
-						"MEGATRO\u0418IC",
+						"MEGATR0NIC",
 						"twitter.com/OmegatronicA",
 						"youtube.com/OMEGATRONI",
 						"OMEGAPOCALYPSE",
-						" IRO\u0418 ",
-						" FISTI\u0418G",,
-						" IR\u03a9N ",
-						"SAVI\u0418G ",
+						"IC's IROИ ",
+						" FISTIИG",
+						"IC'S IRON FISTING",
+						"IC'S IRΩN ",
+						"SAVIИG TF2",
 						"BOT IMMUNITY",
+						" SAVES TF2",
 						"#SavingTF2"
 					]
 				}
