@@ -49,6 +49,23 @@
 					"cheater"
 				]
 			},
+			"description": "DoesHotter MSG",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"youtube.com/@DoesHotterino"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
 			"description": "youtube.com/@p2l",
 			"triggers": {
 				"username_text_match": {
