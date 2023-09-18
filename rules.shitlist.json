@@ -177,6 +177,22 @@
 				}
 			}
 		},
+				{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Omegatronic Avatar Match",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "8DAE35185328629BD778FBF178D9E148255AFBC1",
+						"avatar_hash": "6E06ED2FBFBA446F6942942A5FB004B1DE879591"
+					}
+				]
+			}
+		},
 		{
 			"actions": {
 				"mark": [
