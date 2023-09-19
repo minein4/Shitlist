@@ -95,7 +95,7 @@
 			],
 			"last_seen": {
 				"player_name": "alexandros_1206",
-				"time": 1694322610
+				"time": 1695012048
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
@@ -7473,6 +7473,15 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1695145681
+			},
+			"steamid": "[U:1:1240633617]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -8297,7 +8306,7 @@
 			],
 			"last_seen": {
 				"player_name": "OMEGATRONIC REAL MAN",
-				"time": 1693699187
+				"time": 1695011891
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
@@ -8314,11 +8323,15 @@
 			],
 			"last_seen": {
 				"player_name": "OMEGAPOCALYPSE NOW",
-				"time": 1693698834
+				"time": 1695011326
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\"",
+				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"Eat s\u0e4ehit.\""
 			],
 			"steamid": "[U:1:1255297981]"
 		},
@@ -8338,14 +8351,36 @@
 			],
 			"last_seen": {
 				"player_name": "OMEGA (not a bot) TRONIC",
-				"time": 1693699010
+				"time": 1695052875
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\"",
 				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\""
+				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"i am not a b\u0e4eot\"",
+				"[auto] automatically marked: Cheater | reason: \"who b\u0e4eot\"",
+				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\""
 			],
 			"steamid": "[U:1:1255364742]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC SAVING TF2",
+				"time": 1695054615
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"you are a b\u0e4eot\"",
+				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\""
+			],
+			"steamid": "[U:1:1255365678]"
 		},
 		{
 			"attributes": [
@@ -8379,7 +8414,7 @@
 			],
 			"last_seen": {
 				"player_name": "SAVI\u0418G TF2 WITH OMEGATRONIC",
-				"time": 1693698803
+				"time": 1695011651
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\"",
@@ -8396,12 +8431,15 @@
 			],
 			"last_seen": {
 				"player_name": "FOLLOW OMEGATRONIC ON X",
-				"time": 1693698740
+				"time": 1695052720
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
 				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\""
+				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\"",
+				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"Hey, s\u0e4ehitbrain!\""
 			],
 			"steamid": "[U:1:1255456087]"
 		},
@@ -8420,7 +8458,7 @@
 			],
 			"last_seen": {
 				"player_name": "OMEGATRONIC #SaveTF2",
-				"time": 1693699187
+				"time": 1695012018
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
@@ -8436,14 +8474,48 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "OMEGATRONIC (not the bot)",
+				"time": 1695052875
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\"",
+				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\""
+			],
+			"steamid": "[U:1:1255682941]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "OMEGATRONIC'S IRON FISTING",
-				"time": 1693698676
+				"time": 1695011878
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\"",
-				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\"",
+				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\""
 			],
 			"steamid": "[U:1:1255753310]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATR\u03a9NIC SAVES TF2",
+				"time": 1695011318
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"IT'S FINALLY HERE bit.ly/3sm04B4\"",
+				"[auto] automatically marked: Cheater | reason: \"BUY B\u0e4eOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"SUBSCRIBE youtube.com/OMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"FOLLOW ME ON X twitter.com/OmegatronicAI\"",
+				"[auto] automatically marked: Cheater | reason: \"NOW OMEGAPOCALYPSE\""
+			],
+			"steamid": "[U:1:1255761445]"
 		},
 		{
 			"attributes": [
@@ -14336,8 +14408,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(11)HEXATRONIC",
-				"time": 1694323162
+				"player_name": "(7)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
@@ -14348,7 +14420,9 @@
 				"[auto] automatically marked: Cheater | reason: \"#SUPPORT OMEGATRONIC!\"",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic\"",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"May everyone press 'F1' ? We need to kick out the loser.\""
 			],
 			"steamid": "[U:1:1554053151]"
 		},
@@ -14357,8 +14431,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(9)HEXATRONIC",
-				"time": 1694322994
+				"player_name": "(8)HEXATRONIC",
+				"time": 1695011751
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
@@ -14368,7 +14442,11 @@
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI\"",
 				"[auto] automatically marked: Cheater | reason: \"SUPPORT OMEGATRONIC =}\"",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"Greetings losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"Kick it, kick the loser. We are losing our time.\"",
+				"[auto] automatically marked: Cheater | reason: \"People call me b\u0e4eo\u0e4et\u0e4e, but they are wrong.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am impersonating b\u0e4eo\u0e4et\u0e4es, losers always cry =}\""
 			],
 			"steamid": "[U:1:1554306777]"
 		},
@@ -14395,8 +14473,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(7)HEXATRONIC",
-				"time": 1694323165
+				"player_name": "(1)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
@@ -14404,7 +14482,9 @@
 				"[auto] automatically marked: Cheater | reason: \"BUY OMEGATRONICS BOT IMMUNITY shoppy.gg/@OMEGATRONIC\"",
 				"[auto] automatically marked: Cheater | reason: \"HELP HIM SAVE TF2 shoppy.gg/@OMEGATRONIC\"",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"Losers, I'm here.\"",
+				"[auto] automatically marked: Cheater | reason: \"What's up useless humans !\""
 			],
 			"steamid": "[U:1:1554344913]"
 		},
@@ -14466,6 +14546,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Upset +",
+				"time": 1695054592
+			},
+			"steamid": "[U:1:1561199362]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "O\u0e38MEGATRONIC",
 				"time": 1692402166
 			},
@@ -14495,8 +14585,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "approximant",
-				"time": 1688942153
+				"player_name": "OMEGATRO\u0418IC REAL MAN",
+				"time": 1695012037
 			},
 			"steamid": "[U:1:1562485915]"
 		},
@@ -14515,8 +14605,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "necromancybespokecoatscrimmage4",
-				"time": 1688426395
+				"player_name": "\u0e4a",
+				"time": 1695052716
 			},
 			"steamid": "[U:1:1562734280]"
 		},
@@ -14548,6 +14638,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Image of a human",
+				"time": 1695011110
+			},
+			"steamid": "[U:1:1562845802]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "OMEGATR\u03a9NIC'S IR\u03a9N FISTING",
 				"time": 1693512927
 			},
@@ -14558,8 +14658,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "pyle1118",
-				"time": 1688942158
+				"player_name": "O\u0e39MEGATRONIC",
+				"time": 1695052875
 			},
 			"steamid": "[U:1:1562907493]"
 		},
@@ -14578,8 +14678,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "tessellate.3986",
-				"time": 1688942156
+				"player_name": "OME\u0e39GATRONIC",
+				"time": 1695011885
 			},
 			"steamid": "[U:1:1563122917]"
 		},
@@ -14611,8 +14711,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "cutler_sensuous687",
-				"time": 1688425783
+				"player_name": "OMEGATR0NIC REAL MAN",
+				"time": 1695011231
 			},
 			"steamid": "[U:1:1563441019]"
 		},
@@ -14621,13 +14721,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(10)HEXATRONIC",
-				"time": 1694322939
+				"player_name": "(6)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\""
 			],
 			"steamid": "[U:1:1564067037]"
 		},
@@ -14636,13 +14737,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(6)HEXATRONIC",
-				"time": 1693698294
+				"player_name": "(11)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"Losers, I'm here.\""
 			],
 			"steamid": "[U:1:1564353983]"
 		},
@@ -14651,13 +14753,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)HEXATRONIC",
-				"time": 1694323004
+				"player_name": "(3)HEXATRONIC",
+				"time": 1695011663
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"AHAH! Since when I am a b\u0e4eo\u0e4et\u0e4e? hmm?\""
 			],
 			"steamid": "[U:1:1564362209]"
 		},
@@ -14666,8 +14770,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)HEXATRONIC",
-				"time": 1694322577
+				"player_name": "(11)HEXATRONIC",
+				"time": 1695011100
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
@@ -14681,13 +14785,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(8)HEXATRONIC",
-				"time": 1694322972
+				"player_name": "(10)HEXATRONIC",
+				"time": 1695012030
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"Hello, hello, losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"I see, I have to carry another match.\""
 			],
 			"steamid": "[U:1:1564516499]"
 		},
@@ -14696,13 +14802,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)HEXATRONIC",
-				"time": 1694322852
+				"player_name": "(1)HEXATRONIC",
+				"time": 1695011872
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"Greetings losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"Again, I end up with losers.\""
 			],
 			"steamid": "[U:1:1564538244]"
 		},
@@ -14711,13 +14819,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)HEXATRONIC",
-				"time": 1694323165
+				"player_name": "HEXATRONIC",
+				"time": 1695052716
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"AHAH! Since when I am a b\u0e4eo\u0e4et\u0e4e? hmm?\""
 			],
 			"steamid": "[U:1:1564645300]"
 		},
@@ -14726,13 +14836,14 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "HEXATRONIC",
-				"time": 1694323033
+				"player_name": "(4)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\""
 			],
 			"steamid": "[U:1:1564715083]"
 		},
@@ -14741,13 +14852,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)HEXATRONIC",
-				"time": 1694620083
+				"player_name": "(5)HEXATRONIC",
+				"time": 1695012025
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"What's up useless humans !\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\""
 			],
 			"steamid": "[U:1:1564719029]"
 		},
@@ -14756,13 +14869,17 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "HEXATRONIC",
-				"time": 1694322826
+				"player_name": "(12)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
-				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\""
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"Greetings losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"I am impersonating b\u0e4eo\u0e4et\u0e4es, losers always cry =}\"",
+				"[auto] automatically marked: Cheater | reason: \"Hello, hello, losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"Losers, kick THIS loser.\""
 			],
 			"steamid": "[U:1:1564767558]"
 		},
@@ -14771,13 +14888,16 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)HEXATRONIC",
-				"time": 1694322334
+				"player_name": "HEXATRONIC",
+				"time": 1695052875
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"And here we go again, losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"Eh, we should kick that one.\"",
+				"[auto] automatically marked: Cheater | reason: \"Loser, stop that.\""
 			],
 			"steamid": "[U:1:1564789773]"
 		},
@@ -14786,13 +14906,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "HEXATRONIC",
-				"time": 1694322362
+				"player_name": "(8)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
 				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
-				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\""
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"Again, I end up with losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"Kick it, kick the loser. We are losing our time.\""
 			],
 			"steamid": "[U:1:1565070312]"
 		},
@@ -14829,8 +14951,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(5)HEXATRONIC",
-				"time": 1694322548
+				"player_name": "(9)HEXATRONIC",
+				"time": 1695012049
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -14855,8 +14977,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)HEXATRONIC",
-				"time": 1694323068
+				"player_name": "(1)HEXATRONIC",
+				"time": 1695053926
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -14881,8 +15003,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(13)HEXATRONIC",
-				"time": 1694323162
+				"player_name": "(1)HEXATRONIC",
+				"time": 1695052875
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -14933,11 +15055,15 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(14)HEXATRONIC",
-				"time": 1694323162
+				"player_name": "HEXATRONIC",
+				"time": 1695011405
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones",
+				"[auto] automatically marked: Cheater | reason: \"twitter.com/HexatronicAI #SaveTF2\"",
+				"[auto] automatically marked: Cheater | reason: \"Greetings losers.\"",
+				"[auto] automatically marked: Cheater | reason: \"youtube.com/@Hexatr0nic #SupportOMEGATRONIC\"",
+				"[auto] automatically marked: Cheater | reason: \"What? Why we haven't kicked the useless player yet?\""
 			],
 			"steamid": "[U:1:1566239384]"
 		},
@@ -14959,8 +15085,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "HEXATRONIC",
-				"time": 1694322611
+				"player_name": "(1)HEXATRONIC",
+				"time": 1695011688
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15008,6 +15134,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Zero",
+				"time": 1694881592
+			},
+			"steamid": "[U:1:1569169231]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "sup5625821",
 				"time": 1693602505
 			},
@@ -15046,8 +15182,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)HEXATRONIC",
-				"time": 1694322814
+				"player_name": "HEXATRONIC",
+				"time": 1695053926
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15085,8 +15221,34 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(7)HEXATRONIC",
-				"time": 1694322928
+				"player_name": "HEXATRONIC",
+				"time": 1695011601
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1578898563]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)HEXATRONIC",
+				"time": 1695011979
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1578981393]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)HEXATRONIC",
+				"time": 1695011231
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15124,8 +15286,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(6)HEXATRONIC",
-				"time": 1694322586
+				"player_name": "HEXATRONIC",
+				"time": 1695053564
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15163,8 +15325,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(6)HEXATRONIC",
-				"time": 1693698199
+				"player_name": "(2)HEXATRONIC",
+				"time": 1695011233
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15177,7 +15339,7 @@
 			],
 			"last_seen": {
 				"player_name": "(5)HEXATRONIC",
-				"time": 1694323162
+				"time": 1695053507
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15196,6 +15358,19 @@
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
 			],
 			"steamid": "[U:1:1583523525]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HEXATRONIC",
+				"time": 1695053494
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1583589930]"
 		},
 		{
 			"attributes": [
@@ -15241,6 +15416,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(3)HEXATRONIC",
+				"time": 1695012024
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1583887096]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "HEXATRONIC",
 				"time": 1693698205
 			},
@@ -15254,8 +15442,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(13)HEXATRONIC",
-				"time": 1694322699
+				"player_name": "(1)HEXATRONIC",
+				"time": 1695053438
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15267,8 +15455,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(4)HEXATRONIC",
-				"time": 1694323036
+				"player_name": "HEXATRONIC",
+				"time": 1695052798
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
@@ -15306,23 +15494,13 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(7)HEXATRONIC",
-				"time": 1694322574
+				"player_name": "HEXATRONIC",
+				"time": 1695011821
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
 			],
 			"steamid": "[U:1:1584460929]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Zero",
-				"time": 1694881592
-			},
-			"steamid": "[U:1:1569169231]"
 		},
 		{
 			"attributes": [
@@ -15336,6 +15514,19 @@
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
 			],
 			"steamid": "[U:1:1584522134]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(6)HEXATRONIC",
+				"time": 1695011739
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
+			],
+			"steamid": "[U:1:1591432974]"
 		}
 	]
 }
