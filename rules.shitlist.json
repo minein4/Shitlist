@@ -304,6 +304,23 @@
 					]
 				}
 			}
+        },
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Rathook",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"t.me/rathookcc"
+					]
+				}
+			}
 		}
 		{
 			"actions": {
