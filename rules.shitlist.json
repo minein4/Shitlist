@@ -304,7 +304,7 @@
 					]
 				}
 			}
-        },
+        	},
 		{
 			"actions": {
 				"mark": [
@@ -313,7 +313,7 @@
 			},
 			"description": "Rathook",
 			"triggers": {
-				"username_text_match": {
+				"chatmsg_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
@@ -321,20 +321,21 @@
 					]
 				}
 			}
-		}
+		},
 		{
 			"actions": {
 				"mark": [
 					"cheater"
 				]
 			},
-			"description": "Rathook",
+			"description": "TF2Gym",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"t.me/rathookcc"
+						"NO WEAKNESS",
+						"dsc.gg/tf2gym"
 					]
 				}
 			}
