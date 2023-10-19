@@ -340,6 +340,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "@artificial",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"youtube.com/@arcticialㅤㅤㅤㅤㅤㅤ"
+					]
+				}
+			}
 		}
 	]
 }
