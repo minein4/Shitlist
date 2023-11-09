@@ -6916,6 +6916,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "WEEDMAN",
+				"time": 1698962518
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"i love the nigger from russian 2\""
+			],
+			"steamid": "[U:1:1218018929]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -10071,6 +10084,16 @@
 				"time": 1657291681
 			},
 			"steamid": "[U:1:1325739562]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hotdog",
+				"time": 1698962283
+			},
+			"steamid": "[U:1:1327890596]"
 		},
 		{
 			"attributes": [
@@ -14259,6 +14282,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "dsc.gg/tf2gym NO WEEAKNES",
+				"time": 1699037885
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: TF2Gym"
+			],
+			"steamid": "[U:1:1550801452]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\u03a9MEGATR\u03a9NIC",
 				"time": 1693512927
 			},
@@ -15615,6 +15651,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1698962684
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: RosneGaming"
+			],
+			"steamid": "[U:1:1583959738]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "HEXATRONIC",
 				"time": 1693698205
 			},
@@ -15648,6 +15697,19 @@
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
 			],
 			"steamid": "[U:1:1584120015]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "youtube.com/@RosneGaming",
+				"time": 1699037891
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: RosneGaming"
+			],
+			"steamid": "[U:1:1584122039]"
 		},
 		{
 			"attributes": [
@@ -15778,6 +15840,73 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Cats Are Silly!",
+				"time": 1698917560
+			},
+			"steamid": "[U:1:1598371745]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)dsc.gg/tf2gym NO WEAKNESS",
+				"time": 1699037997
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: TF2Gym"
+			],
+			"steamid": "[U:1:1598646294]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1699518397
+			},
+			"steamid": "[U:1:1598902352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1699518404
+			},
+			"steamid": "[U:1:1599013685]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)dsc.gg/tf2gym NO WEAKNESS",
+				"time": 1699037923
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: TF2Gym"
+			],
+			"steamid": "[U:1:1599126278]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/tf2gym NO WEAKNESS",
+				"time": 1699037790
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: TF2Gym"
+			],
+			"steamid": "[U:1:1599200062]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "dsc.gg/tf2gym NO WEAKNESS",
 				"time": 1697194553
 			},
@@ -15795,6 +15924,29 @@
 				"[auto] automatically marked: Cheater | reason: Omegatronic Clones"
 			],
 			"steamid": "[U:1:1600857420]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cats Love Cheerio's!",
+				"time": 1698009264
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: \"I am not a \u25cc\u0e4ebot.\""
+			],
+			"steamid": "[U:1:1601152131]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cats Are Funny!",
+				"time": 1699037920
+			},
+			"steamid": "[U:1:1602356091]"
 		}
 	]
 }
