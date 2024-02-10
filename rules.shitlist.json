@@ -173,7 +173,8 @@
 						"\u0e34",
 						"\u0e35",
 						"\u0e36",
-						"\u0e39"
+						"\u0e39",
+						"\u0e48"
 					]
 				}
 			}
@@ -207,7 +208,8 @@
 					"mode": "contains",
 					"patterns": [
 						"HEXATRONIC",
-						"DELTA\u0e4eTRONIC"
+						"DELTA\u0e4eTRONIC",
+						"youtube.com/@DELTATR0NIC"
 					]
 				}
 			}
