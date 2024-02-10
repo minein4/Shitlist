@@ -20,3 +20,4 @@ Once downloading the zip please extract it using your zip manager of choice, now
 
 You have now successfully installed Shitlist for tf2bd
 
+![](https://i.imgur.com/Vs73dwM.png)
