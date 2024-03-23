@@ -376,6 +376,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "AlanaTheSylve",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"AlanaTheSylve"
+					]
+				}
+			}
 		}
 	]
 }
