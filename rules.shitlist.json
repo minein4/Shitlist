@@ -393,6 +393,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Advertising Bots",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"shoppy.gg/@audikurat"
+					]
+				}
+			}
 		}
 	]
 }
