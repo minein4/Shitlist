@@ -413,6 +413,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Advertising bots Chat Spam",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						" @everyone youtube.com/@pwned2013 discord.gg/babyragetf2 rohan sharma's a faggot"
+					]
+				}
+			}
 		}
 	]
 }
