@@ -11207,16 +11207,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Midn1ght",
-				"time": 1717279174
-			},
-			"steamid": "[U:1:1362851471]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "MUQA",
 				"time": 1671217834
 			},
@@ -14261,9 +14251,11 @@
 			],
 			"last_seen": {
 				"player_name": "yandere complex",
-				"time": 1700687351
+				"time": 1717528329
 			},
-			"proof": ["Request from yandere complex to be removed, Downgraded to suspicious until seen cheating again."],
+			"proof": [
+				"Request from yandere complex to be removed, Downgraded to suspicious until seen cheating again."
+			],
 			"steamid": "[U:1:1522451783]"
 		},
 		{
