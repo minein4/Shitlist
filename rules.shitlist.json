@@ -136,19 +136,19 @@
 						" bot)",
 						"OMEGATR",
 						"MEGATRONIC",
-						"ΩMEGATR",
-						"MEGATRΩNIC",
-						"MEGATROИIC",
+						"\u03a9MEGATR",
+						"MEGATR\u03a9NIC",
+						"MEGATRO\u0418IC",
 						"0MEGATR",
 						"MEGATR0NIC",
 						"twitter.com/OmegatronicA",
 						"youtube.com/OMEGATRONI",
 						"OMEGAPOCALYPSE",
-						"IC's IROИ ",
-						" FISTIИG",
+						"IC's IRO\u0418 ",
+						" FISTI\u0418G",
 						"IC'S IRON ",
-						"IC'S IRΩN ",
-						"SAVIИG TF2",
+						"IC'S IR\u03a9N ",
+						"SAVI\u0418G TF2",
 						"BOT IMMUNITY",
 						" SAVES TF2",
 						"#SavingTF2",
@@ -179,7 +179,7 @@
 				}
 			}
 		},
-				{
+		{
 			"actions": {
 				"mark": [
 					"cheater"
@@ -189,8 +189,7 @@
 			"triggers": {
 				"avatar_match": [
 					{
-						"avatar_hash": "8DAE35185328629BD778FBF178D9E148255AFBC1",
-						"avatar_hash": "6E06ED2FBFBA446F6942942A5FB004B1DE879591"
+						"avatar_hash": "6e06ed2fbfba446f6942942a5fb004b1de879591"
 					}
 				]
 			}
@@ -307,7 +306,7 @@
 					]
 				}
 			}
-        	},
+		},
 		{
 			"actions": {
 				"mark": [
@@ -355,7 +354,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"youtube.com/@arcticialㅤㅤㅤㅤㅤㅤ"
+						"youtube.com/@arcticial\u3164\u3164\u3164\u3164\u3164\u3164"
 					]
 				}
 			}
@@ -429,6 +428,23 @@
 						"youtube.com/@pwned2013",
 						"discord.gg/babyragetf2",
 						"discord.gg/zdKH8KgCrB"
+					]
+				}
+			}
+		},
+				{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "ZestyJesusBot",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"๊\u200f"
 					]
 				}
 			}
