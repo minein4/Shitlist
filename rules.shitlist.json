@@ -444,7 +444,10 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"๊\u200f"
+						"๊\u0e4b",
+						"\u0e47",
+						"\u0e48",
+						"\u0e4a"
 					]
 				}
 			}
